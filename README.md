@@ -1,4 +1,4 @@
-Template for development of regional lab manuals as part of the PAM SI
+Lab manual for SEFSC Passive Acoustics Ecology Program
 
 ### Disclaimer
 
