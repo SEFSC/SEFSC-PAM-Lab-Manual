@@ -82,11 +82,21 @@
     ]
   },
   {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
+    "objectID": "content/DataManagement.html#ncei",
+    "href": "content/DataManagement.html#ncei",
     "title": "Data Management",
-    "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "section": "NCEI",
+    "text": "NCEI",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#tethys",
+    "href": "content/DataManagement.html#tethys",
+    "title": "Data Management",
+    "section": "Tethys",
+    "text": "Tethys\nA data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
     "crumbs": [
       "Data Management"
     ]
@@ -107,7 +117,62 @@
     "href": "content/Hardware.html",
     "title": "Hardware",
     "section": "",
-    "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
+    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#seafloor-moored-acoustic-recorders",
+    "href": "content/Hardware.html#seafloor-moored-acoustic-recorders",
+    "title": "Hardware",
+    "section": "",
+    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#towed-hydrophone-array",
+    "href": "content/Hardware.html#towed-hydrophone-array",
+    "title": "Hardware",
+    "section": "Towed Hydrophone Array",
+    "text": "Towed Hydrophone Array\nWhile at sea conducting line-transect surveys to look for whales and dolphins (cetaceans), acousticians deploy a towed hydrophone (underwater microphone) array. The array is towed approximately 300 meters behind the ship to detect and localize the sounds produced by toothed whales and dolphins (odontocetes).\nThe array contains multiple hydrophones, each recording sounds as they arrive. The time differences in sound arrival on each hydrophone allow us to measure the sound’s direction. As the ship continues on its path, the direction to the sounds changes. This allows scientists to localize the source of whistles and echolocation clicks.\nThese data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species.",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#drifting-acoustic-recorders-gliders",
+    "href": "content/Hardware.html#drifting-acoustic-recorders-gliders",
+    "title": "Hardware",
+    "section": "Drifting Acoustic Recorders (Gliders)",
+    "text": "Drifting Acoustic Recorders (Gliders)\nPOC: Heloise Frouin-Mouy",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#sonobuoys",
+    "href": "content/Hardware.html#sonobuoys",
+    "title": "Hardware",
+    "section": "Sonobuoys",
+    "text": "Sonobuoys\nDuring ship surveys, we also use expendable DIFAR (Directional Frequency Analysis and Ranging) sonobuoys to detect and record low‐frequency sounds produced by baleen whales (mysticetes). DIFAR sonobuoys contain a hydrophone and a compass in the sensor head and transmit signals from these sensors back to the ship via a VHF radio carrier. The acoustic signal ranges in frequency from 10–4,000 hertz, which is well suited for baleen whale calls that are generally below 1,000 hertz. The two compass signals contain directional information that help us determine where the sounds we hear are coming from and can be used to help us find and localize whales.\nIn the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pairs of these sonobuoys to localize the source of calls that are thought to be produced by the endangered Rice’s whale. This provides data to understand what types of calls these whales produce, how often they produce them, and in some cases, how far away we can detect the calls from them. We need this foundational information about what calls Rice’s whales produce to use autonomous moored recorders for longer term studies of their occurrence.",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#acoustic-and-dive-behavior-tags",
+    "href": "content/Hardware.html#acoustic-and-dive-behavior-tags",
+    "title": "Hardware",
+    "section": "Acoustic and Dive Behavior Tags",
+    "text": "Acoustic and Dive Behavior Tags\nWe also collect data on acoustic behavior, fine-scale movement, and dive behavior using specialized acoustic and kinematic data-logging tags, like the AcousondeTM tag, that attach to marine mammals. These tags provide us with a view of what whales and dolphins do below the surface. They allow us to measure their dive depth, movements, and behavior, and record the sounds produced near and by the tagged animal.\nThe tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
       "Lab Management",
       "Hardware"
@@ -271,7 +336,17 @@
     "href": "content/FieldMethods.html",
     "title": "Field Methods",
     "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "text": "POC: Heloise\nA field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#checklists",
+    "href": "content/FieldMethods.html#checklists",
+    "title": "Field Methods",
+    "section": "",
+    "text": "POC: Heloise\nA field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
     "crumbs": [
       "Field Methods"
     ]
@@ -303,7 +378,7 @@
     "href": "content/Safety.html",
     "title": "Safety",
     "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
+    "text": "Lithium Safety page - POC: Melissa Soldevilla\nLink to SEFSC Safety Page - POC: Melissa Soldevilla\nInclude the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
     "crumbs": [
       "Lab Management",
       "Safety"
