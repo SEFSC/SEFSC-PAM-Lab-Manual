@@ -2,6 +2,10 @@
 title: Safety
 ---
 
+Lithium Safety page - POC: Melissa Soldevilla
+
+Link to SEFSC Safety Page - POC: Melissa Soldevilla
+
 Include the following information on this page
 
 -   Lab safety
