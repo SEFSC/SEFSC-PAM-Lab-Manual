@@ -1,4 +1,4 @@
-Lab manual for SEFSC Passive Acoustics Ecology Program
+Lab manual for SEFSC Passive Acoustic Ecology Program
 
 ### Disclaimer
 
