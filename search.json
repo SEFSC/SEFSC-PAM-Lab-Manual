@@ -4,57 +4,37 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.",
+    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#sefsc-passive-acoustics-ecology-program-lab-manual",
-    "href": "index.html#sefsc-passive-acoustics-ecology-program-lab-manual",
+    "objectID": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
+    "href": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
     "title": "Home",
     "section": "",
-    "text": "A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.",
+    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#required-pages",
-    "href": "index.html#required-pages",
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
     "title": "Home",
-    "section": "Required Pages",
-    "text": "Required Pages\nIn order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.\n\nHome Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.\nLab Management\nData Management\nHardware\nSoftware\nAnalysis\nReporting",
+    "section": "Team Members",
+    "text": "Team Members\nMelissa Soldevilla, Passive Acoustic Ecology Program Lead\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nShannon Merkle\nLudovic Tenorio, Postdoctoral associate, Rice’s whale studies",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#optional-pages",
-    "href": "index.html#optional-pages",
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
     "title": "Home",
-    "section": "Optional Pages",
-    "text": "Optional Pages\nHere are some more ideas for pages to include in your lab manual. These are optional and will not be linked to the main National PAM Repo, but they may be helpful for your team\n\nShared values/lab culture\nOnboarding\nOffboarding\nField Methods\nOpen Science\nPublications/Presentations\nResources",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#how-to-use-this-template",
-    "href": "index.html#how-to-use-this-template",
-    "title": "Home",
-    "section": "How To Use This Template",
-    "text": "How To Use This Template\nThis template will create a Quarto website that each lab can copy and edit with their own lab information. Follow the steps below to copy this template to your lab’s GitHub\n\nOpen this repository on GitHub\nClick on the ‘Use this template’ button in the top right, select ‘Create new repository’\n\nEdit repository settings\n\nSelect the ‘Include all branches’ option\nSelect your lab organization or yourself as the owner and set the repository name to ‘Lab name Lab Manual’\nMake description “Lab manual for ‘insert lab name and FMC’”\nMake the repo public\n\n\nClick create repository\nTurn on GitHub pages under Settings-&gt;Pages. You will set pages to be made from the gh-pages branch and root directory\n\nUpdate ‘Actions’ settings\n\nUnder Settings -&gt; Actions -&gt; General -&gt; Actions permissions select ‘Allow all actions and reusable workflows’. Select save\n\nUnder Settings -&gt; Actions -&gt; General -&gt; Workflow permissions select ‘Read and write permissions’\n\n\n\n\n\n\n\nNote: Both of these settings may already be selected but you have to click save for both\n\n\n\n\n\n\n\nReturn to the main page of the repo to edit your website\n\nClick on ‘Code’ in the top left\nClick on the settings button next to the ‘About’ section on the right side of the repository\nSelect ‘Use your GitHub Pages website’. This should autopopulate the website\nSelect ‘Save Changes’\n\n\nYour lab manual is now created! Go here for more directions on how to start editing you manual using GitHub Desktop and R Studio (start at step 4)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#example-manuals",
-    "href": "index.html#example-manuals",
-    "title": "Home",
-    "section": "Example Manuals",
-    "text": "Example Manuals\nHere are two lab manuals to pull inspiration from\n\nSWFSC Southwest Acoustic Ecology Lab Manual\nFaylab Manual\nSWFSC Glider Lab Manual",
+    "section": "Partners",
+    "text": "Partners\nPassive acoustic monitoring requires specialized equipment and produces a lot of data. These data require computer intensive analyses to discover all the important information about marine mammals and their acoustic habitats contained in the underwater sound recordings. The Southeast Center collaborates with many institutions within and outside NOAA to help us achieve these goals.\nThe agencies we work with include:\n\nScripps Whale Acoustics Lab\nScripps Machine Listening Lab\nUniversidad Veracruzana - Serrano Lab\nUniversidad Nacional Autónoma de Mexico - Gracia Lab\nNOAA Atlantic Oceanographic and Meteorological Laboratory\nNOAA National Centers for Environmental Information\nNOAA Northeast Fisheries Science Center",
     "crumbs": [
       "Home"
     ]
@@ -119,7 +99,6 @@
     "section": "",
     "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -130,7 +109,6 @@
     "section": "",
     "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -141,7 +119,6 @@
     "section": "Towed Hydrophone Array",
     "text": "Towed Hydrophone Array\nWhile at sea conducting line-transect surveys to look for whales and dolphins (cetaceans), acousticians deploy a towed hydrophone (underwater microphone) array. The array is towed approximately 300 meters behind the ship to detect and localize the sounds produced by toothed whales and dolphins (odontocetes).\nThe array contains multiple hydrophones, each recording sounds as they arrive. The time differences in sound arrival on each hydrophone allow us to measure the sound’s direction. As the ship continues on its path, the direction to the sounds changes. This allows scientists to localize the source of whistles and echolocation clicks.\nThese data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species.",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -152,7 +129,6 @@
     "section": "Drifting Acoustic Recorders (Gliders)",
     "text": "Drifting Acoustic Recorders (Gliders)\nPOC: Heloise Frouin-Mouy",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -163,7 +139,6 @@
     "section": "Sonobuoys",
     "text": "Sonobuoys\nDuring ship surveys, we also use expendable DIFAR (Directional Frequency Analysis and Ranging) sonobuoys to detect and record low‐frequency sounds produced by baleen whales (mysticetes). DIFAR sonobuoys contain a hydrophone and a compass in the sensor head and transmit signals from these sensors back to the ship via a VHF radio carrier. The acoustic signal ranges in frequency from 10–4,000 hertz, which is well suited for baleen whale calls that are generally below 1,000 hertz. The two compass signals contain directional information that help us determine where the sounds we hear are coming from and can be used to help us find and localize whales.\nIn the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pairs of these sonobuoys to localize the source of calls that are thought to be produced by the endangered Rice’s whale. This provides data to understand what types of calls these whales produce, how often they produce them, and in some cases, how far away we can detect the calls from them. We need this foundational information about what calls Rice’s whales produce to use autonomous moored recorders for longer term studies of their occurrence.",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -174,7 +149,6 @@
     "section": "Acoustic and Dive Behavior Tags",
     "text": "Acoustic and Dive Behavior Tags\nWe also collect data on acoustic behavior, fine-scale movement, and dive behavior using specialized acoustic and kinematic data-logging tags, like the AcousondeTM tag, that attach to marine mammals. These tags provide us with a view of what whales and dolphins do below the surface. They allow us to measure their dive depth, movements, and behavior, and record the sounds produced near and by the tagged animal.\nThe tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
