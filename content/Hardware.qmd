@@ -20,16 +20,20 @@ The array contains multiple hydrophones, each recording sounds as they arrive. T
 
 These data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species. 
 
+![](content/images/towedarray.png)
+*A hydrophone array being towed behind the ship. This array is towed 300 m behind the ship and usually stays submerged between nine and 12 meters (30-40 feet) depth. We use a custom-built modular array capable of recording a broad range of sound frequencies. Credit: NOAA Fisheries / Amanda Debich
 
-## Drifting Acoustic Recorders (Gliders)
-POC: Heloise Frouin-Mouy
 
+## Drifting Acoustic Recorders
 
-## Sonobuoys
+### Sonobuoys
 
 During ship surveys, we also use expendable DIFAR (Directional Frequency Analysis and Ranging) sonobuoys to detect and record low‐frequency sounds produced by baleen whales (mysticetes). DIFAR sonobuoys contain a hydrophone and a compass in the sensor head and transmit signals from these sensors back to the ship via a VHF radio carrier. The acoustic signal ranges in frequency from 10–4,000 hertz, which is well suited for baleen whale calls that are generally below 1,000 hertz. The two compass signals contain directional information that help us determine where the sounds we hear are coming from and can be used to help us find and localize whales. 
 
 In the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pairs of these sonobuoys to localize the source of calls that are thought to be produced by the endangered Rice’s whale. This provides data to understand what types of calls these whales produce, how often they produce them, and in some cases, how far away we can detect the calls from them. We need this foundational information about what calls Rice’s whales produce to use autonomous moored recorders for longer term studies of their occurrence.
+
+
+## Gliders
 
 
 ## Acoustic and Dive Behavior Tags
@@ -37,6 +41,9 @@ In the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pair
 We also collect data on acoustic behavior, fine-scale movement, and dive behavior using specialized acoustic and kinematic data-logging tags, like the AcousondeTM tag, that attach to marine mammals. These tags provide us with a view of what whales and dolphins do below the surface. They allow us to measure their dive depth, movements, and behavior, and record the sounds produced near and by the tagged animal. 
 
 The tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.
+
+![](content/images/Acousondetag.png)
+*An AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)
 
 
 A hardware section is required and should include the following information;

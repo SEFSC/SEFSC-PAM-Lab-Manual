@@ -4,7 +4,74 @@ title: Field Methods
 
 
 ## Checklists
-POC: Heloise
+
+
+## Setup Guides
+
+Acoustics VisSurvey Setup
+
+Brummel Lock Line Splicing for Soundtraps
+
+Depth Sensor Setup
+
+Garmin GPS Setup
+
+Ishmael Setup
+
+MOTU Setup
+
+SAILDAQ Setup
+
+Sonobuoy Setup
+
+Soundtrap Mooring Deployment Preparation
+
+
+## Protocols
+
+Acoustics Backup Protocols
+
+Acoustics Reports
+
+Acoustics VisSurvey Manual
+
+Array Deployment and Recovery
+
+Array Deployment and Retrieval To Do
+
+CTD Protocol
+
+Day to Day Ops
+
+Ishmael Protocols
+
+Pamguard Troubleshooting
+
+RESTORE Pamguard Protocols - Summer 2018
+
+SEFSC Acoustics Manual - Possible Reference for Text
+
+Sonobuoy Deployment
+
+Sonobuoy Stripping
+
+Soundtrap ATHAS Protocol
+
+Towed Array and Connector Care
+
+XBT Launches
+
+
+## Manuals
+
+SEFSC AMMAPS 2013 Array Info
+
+Teledyne Impulse Connector Care Instructions
+
+Wiring Diagram NMFS CSFalmat Cable Corrected
+
+Troubleshooting SB computer noise testing screenshots
+
 
 
 A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.

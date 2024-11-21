@@ -7,7 +7,6 @@ page-layout: full
 ## SEFSC Passive Acoustic Ecology Program Lab Manual
 
 ![](content/images/Rices.png)
-
 *Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)*
 
 
@@ -19,6 +18,8 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 
 ## Team Members
+
+### Current:
 
 [Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd), Passive Acoustic Ecology Program Lead
 
@@ -32,7 +33,25 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 Shannon Merkle
 
+Emily Stens, MPS student 2024
+
 [Ludovic Tenorio](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Postdoctoral associate, Rice’s whale studies
+
+### Past:
+
+Jonathan Reid
+
+Itzel Perez Carballo
+
+Beyza Gul, Lapenta Intern Summer 2024
+
+Sierra Jarriel, MPS student 2021-2022
+
+Miles Lubas, Undergraduate Fall 2024
+
+Vanessa Lundsten, post-MPS volunteer 2023
+
+Alexandria Tennant, Undergraduate Summer 2023
 
 
 ## Partners
