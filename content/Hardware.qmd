@@ -46,15 +46,15 @@ The tags attach to the whale’s back via suction cups and remain on the whale f
 *An AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)
 
 
-A hardware section is required and should include the following information;
+<!-- A hardware section is required and should include the following information; -->
 
--   Information on your recorders
--   Array configurations and diagrams
--   Platform information (towed, moored, drifting, etc.)
--   Other sensors included (GPS devices, depth senors, etc.)
+<!-- -   Information on your recorders -->
+<!-- -   Array configurations and diagrams -->
+<!-- -   Platform information (towed, moored, drifting, etc.) -->
+<!-- -   Other sensors included (GPS devices, depth senors, etc.) -->
 
-This will be variable for each center and may change from project to project. You should list all hardware, present and past.
+<!-- This will be variable for each center and may change from project to project. You should list all hardware, present and past. -->
 
-You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html))
+<!-- You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html)) -->
 
-This can be a section with subpages or a qmd
+<!-- This can be a section with subpages or a qmd -->

@@ -6,16 +6,11 @@ page-layout: full
 
 ## SEFSC Passive Acoustic Ecology Program Lab Manual
 
-![](content/images/Rices.png)
-*Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)*
+![](content/images/Rices.png) *Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)*
 
-
-
-The Passive Acoustic Ecology Program conducts a variety of [research projects](https://www.fisheries.noaa.gov/science-data/passive-acoustic-research-southeast-fisheries-science-center) that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic.
-We are part of the Marine Mammal and Turtle Division at NOAA's Southeast Fisheries Science Center in Miami, Florida.
+The Passive Acoustic Ecology Program conducts a variety of [research projects](https://www.fisheries.noaa.gov/science-data/passive-acoustic-research-southeast-fisheries-science-center) that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA's Southeast Fisheries Science Center in Miami, Florida.
 
 This lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.
-
 
 ## Team Members
 
@@ -53,18 +48,16 @@ Vanessa Lundsten, post-MPS volunteer 2023
 
 Alexandria Tennant, Undergraduate Summer 2023
 
-
 ## Partners
 
-Passive acoustic monitoring requires specialized equipment and produces a lot of data. These data require computer intensive analyses to discover all the important information about marine mammals and their acoustic habitats contained in the underwater sound recordings. The Southeast Center collaborates with many institutions within and outside NOAA to help us achieve these goals. 
+Passive acoustic monitoring requires specialized equipment and produces a lot of data. These data require computer intensive analyses to discover all the important information about marine mammals and their acoustic habitats contained in the underwater sound recordings. The Southeast Center collaborates with many institutions within and outside NOAA to help us achieve these goals.
 
 The agencies we work with include:
 
-- [Scripps Whale Acoustics Lab](https://www.cetus.ucsd.edu/)
-- [Scripps Machine Listening Lab](https://sioml.ucsd.edu/)
-- [Universidad Veracruzana - Serrano Lab](https://www.uv.mx/personal/arserrano/)
-- [Universidad Nacional Autónoma de Mexico - Gracia Lab](https://www.icmyl.unam.mx/quienes_somos/personal_academico/gracia-gasca-adolfo)
-- [NOAA Atlantic Oceanographic and Meteorological Laboratory](https://www.aoml.noaa.gov/people/matthieu-le-henaff/)
-- [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/products/passive-acoustic-data)
-- [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast)  
-
+-   [Scripps Whale Acoustics Lab](https://www.cetus.ucsd.edu/)
+-   [Scripps Machine Listening Lab](https://sioml.ucsd.edu/)
+-   [Universidad Veracruzana - Serrano Lab](https://www.uv.mx/personal/arserrano/)
+-   [Universidad Nacional Autónoma de Mexico - Gracia Lab](https://www.icmyl.unam.mx/quienes_somos/personal_academico/gracia-gasca-adolfo)
+-   [NOAA Atlantic Oceanographic and Meteorological Laboratory](https://www.aoml.noaa.gov/people/matthieu-le-henaff/)
+-   [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/products/passive-acoustic-data)
+-   [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast)
