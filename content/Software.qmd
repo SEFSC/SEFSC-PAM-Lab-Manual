@@ -2,8 +2,36 @@
 title: Software
 ---
 
-A software section is required and should include the following information;
+## Acoustic Analysis Software
 
--   List of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)
--   Software packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)
-    -   [SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-software.html)
+**Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:**
+
+
+Ishmael
+
+[Matlab](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
+
+[PAMGuard](https://www.pamguard.org/)
+
+[R](https://www.r-project.org/)
+
+[Raven](https://www.ravensoundsoftware.com/software/raven-pro/)
+
+[RStudio](https://posit.co/download/rstudio-desktop/)
+
+[Triton](https://github.com/MarineBioAcousticsRC/Triton)
+
+
+
+**Previously used software:**
+
+
+Wavesurfer
+
+
+
+<!-- A software section is required and should include the following information; -->
+
+<!-- -   List of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.) -->
+<!-- -   Software packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.) -->
+<!--     -   [SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-software.html) -->

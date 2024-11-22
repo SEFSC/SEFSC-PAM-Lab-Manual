@@ -24,7 +24,7 @@ SAILDAQ Setup
 
 Sonobuoy Setup
 
-Soundtrap Mooring Deployment Preparation
+[Soundtrap Mooring Deployment Preparation](https://docs.google.com/document/d/1_8XXEVWuo_R67LYu3DJqrmeIjS2swaxR/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true)
 
 
 ## Protocols
@@ -66,16 +66,21 @@ XBT Launches
 
 SEFSC AMMAPS 2013 Array Info
 
+SoundTrap User Guide
+
 Teledyne Impulse Connector Care Instructions
 
 Wiring Diagram NMFS CSFalmat Cable Corrected
+
+
+## Troubleshooting
 
 Troubleshooting SB computer noise testing screenshots
 
 
 
-A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.
+<!-- A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc. -->
 
-You can make this a section with subpages or link directly to a separate repository that includes more detailed methods.
+<!-- You can make this a section with subpages or link directly to a separate repository that includes more detailed methods. -->
 
-[ADRIFT example](https://sael-swfsc.github.io/adrift-field-methods/)
+<!-- [ADRIFT example](https://sael-swfsc.github.io/adrift-field-methods/) -->
