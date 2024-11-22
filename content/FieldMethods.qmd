@@ -24,7 +24,8 @@ SAILDAQ Setup
 
 Sonobuoy Setup
 
-[Soundtrap Mooring Deployment Preparation](https://docs.google.com/document/d/1_8XXEVWuo_R67LYu3DJqrmeIjS2swaxR/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true)
+[Soundtrap Mooring Deployment Preparation]()
+<!-- (https://docs.google.com/document/d/1_8XXEVWuo_R67LYu3DJqrmeIjS2swaxR/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true) -->
 
 
 ## Protocols

@@ -2,6 +2,45 @@
 title: Analysis Methods
 ---
 
+## Raw Acoustic Data
+
+
+## Marine Mammal Acoustics
+
+### Odontocete Analyses
+
+#### click Classification
+
+#### Density Estimation
+
+#### Beaked Whale Tracking for Denisty Estimation Parameterization
+
+
+### Mysticete Whale Analyses
+
+#### Rice's Whale Automated Call Detectors
+
+#### Long-Moan Detector Settings
+
+#### Downsweep Pulse Sequence Detector Settings
+
+#### Validation of Automated Call Detections
+
+
+## Ambient and Anthropogenic Noise Analyses
+
+### Ambient Noise Levels
+
+### Broadband Ships
+
+### Ship Radiated Noise Levels and Monopole Source Levels
+
+### Seismic Airguns
+
+
+
+
+
 An analysis methods section is required and should include the following information;
 
 -   Data Prep and Archive

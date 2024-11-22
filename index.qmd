@@ -16,9 +16,10 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 ## Team Members
 
-### Principal Investigator
+### Program Lead
 
-[Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd), Passive Acoustic Ecology Program Lead
+[Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd)
+<!-- Passive Acoustic Ecology Program Lead -->
 
 ### Researchers
 
@@ -28,7 +29,7 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 [Lynne Hodge](https://www.fisheries.noaa.gov/contact/lynne-hodge-phd), Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization
 
-[Ludovic Tenorio](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Rice’s whale studies
+[Ludovic Tenorio-Halle](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Rice’s whale studies, propagation modeling, ambient noise
 
 ### Graduate Students
 
