@@ -24,7 +24,7 @@
     "href": "index.html#team-members",
     "title": "Home",
     "section": "Team Members",
-    "text": "Team Members\n\nCurrent:\nMelissa Soldevilla, Passive Acoustic Ecology Program Lead\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nShannon Merkle\nEmily Stens, MPS student 2024\nLudovic Tenorio, Postdoctoral associate, Rice’s whale studies\n\n\nPast:\nJonathan Reid\nItzel Perez Carballo\nBeyza Gul, Lapenta Intern Summer 2024\nSierra Jarriel, MPS student 2021-2022\nMiles Lubas, Undergraduate Fall 2024\nVanessa Lundsten, post-MPS volunteer 2023\nAlexandria Tennant, Undergraduate Summer 2023",
+    "text": "Team Members\n\nCurrent Members:\nMelissa Soldevilla, Passive Acoustic Ecology Program Lead\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nShannon Merkle, Research associate, North Atlantic right whale call analysis and field technician\nEmily Stens, MPS student 2024\nLudovic Tenorio, Postdoctoral associate, Rice’s whale studies\n\n\nPrevious Members:\nJonathan Reid\nItzel Perez Carballo\nBeyza Gul, Lapenta Intern Summer 2024\nSierra Jarriel, MPS student 2021-2022\nMiles Lubas, Undergraduate Fall 2024\nVanessa Lundsten, post-MPS volunteer 2023\nAlexandria Tennant, Savannah State University Undergraduate Summer 2023, Rice’s whale spatiotemporal occurrence in the Gulf of Mexico using passive acoustics",
     "crumbs": [
       "Home"
     ]
@@ -44,29 +44,51 @@
     "href": "content/Onboarding.html",
     "title": "Onboarding",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Onboarding"
-    ]
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example"
   },
   {
     "objectID": "content/SharedValues.html",
     "href": "content/SharedValues.html",
     "title": "Shared Values",
     "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "All LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
     "crumbs": [
-      "Optional Pages",
-      "Shared Values"
+      "Data Management"
     ]
   },
   {
-    "objectID": "content/DataManagement.html#ncei",
-    "href": "content/DataManagement.html#ncei",
+    "objectID": "content/DataManagement.html#ncei-data-archive",
+    "href": "content/DataManagement.html#ncei-data-archive",
     "title": "Data Management",
-    "section": "NCEI",
-    "text": "NCEI",
+    "section": "",
+    "text": "All LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#obis-seamap",
+    "href": "content/DataManagement.html#obis-seamap",
+    "title": "Data Management",
+    "section": "OBIS-SEAMAP",
+    "text": "OBIS-SEAMAP\nWe will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the OBIS-SEAMAP database.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#pacm",
+    "href": "content/DataManagement.html#pacm",
+    "title": "Data Management",
+    "section": "PACM",
+    "text": "PACM\nThe Passive Acoustic Cetacean Map, or PACM, is a visual representation of acosutic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.",
     "crumbs": [
       "Data Management"
     ]
@@ -76,7 +98,7 @@
     "href": "content/DataManagement.html#tethys",
     "title": "Data Management",
     "section": "Tethys",
-    "text": "Tethys\nA data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "text": "Tethys\nThe LISTEN GoMex deployment metadata and detection data are archived in our lab’s Tethys database.",
     "crumbs": [
       "Data Management"
     ]
@@ -86,9 +108,8 @@
     "href": "content/PublicationsPresentations.html",
     "title": "Publications and Presentations",
     "section": "",
-    "text": "Barry, K.P., K.D. Mullin, K. Maze-Foley, L.A. Wilcox Talbot, P.E. Rosel, M.S. Soldevilla, L.A. Dias, M.R. Ramirez-Leon, and J.A. Litz. 2024. Killer whales in the Gulf of Mexico and North Atlantic off the Southeastern United States. Frontiers in Marine Science. doi: 10.3389/fmars.2024.1360314\nDavis, G.E., M.F. Baumgartner, J.M. Bonnell, J. Bell, C. Berchok, J. Bort Thornton, S. Brault, G. Buchanan, R.A. Charif, D. Cholewiak, C.W. Clark, P. Corkeron, J. Delarue, K. Dudzinski, L. Hatch, J. Hildebrand, L. Hodge, H. Klinck, S. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S. Parks, A.J. Read, A.N. Rice, D. Risch, A. Sirovic, M. Soldevilla, K. Stafford, J.E. Stanistreet, E. Summers, S. Todd, A. Warde, and S.M. Van Parijs. 2017. Long-term passive acoustic recordings track the changing distribution of North Atlantic right whales (Eubalaena glacialis) from 2004 to 2014. Scientific Reports. doi: 10.1038/s41598-017-13359-3\nDavis, G.E., M.F. Baumgartner, P.J. Corkeron, J. Bell, C. Berchok, J.M. Bonnell, J. Bort Thornton, S. Brault, G.A. Buchanan, D.M. Cholewiak, C.W. Clark, J. Delarue, L.T. Hatch, H. Klinck, S.D. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S.E. Parks, D. Parry, N. Pegg, A.J. Read, A.N. Rice, D. Risch, A. Scott, M.S. Soldevilla, K.M. Stafford, J.E. Stanistreet, E. Summers, S. Todd, S.M. Van Parijs. 2020. Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data. Global Change Biology. doi: 10.1111/gcb.15191\nFrasier, K.E., M.A. Roch, M.S. Soldevilla, S.M. Wiggins, L.P. Garrison, and J.A. Hildebrand. 2017. Automated classification of dolphin echolocation click types from the Gulf of Mexico. PLOS Computational Biology. doi: 10.1371/journal.pcbi.1005823\nFrasier, K.E., L.P. Garrison, M.S. Soldevilla, S.M. Wiggins, and J.A. Hildebrand. 2021. Cetacean distribution models based on visual and passive acoustic data. Scientific Reports. doi: 10.1038/s41598-021-87577-1\nGarrison, L.P., M.S. Soldevilla, A. Martinez, and K.D. Mullin. 2024. A density surface model describing the habitat of the Critically Endangered Rice’s whale Balaenoptera ricei in the Gulf of Mexico. Endangered Species Research. doi: 10.3354/esr01324\nHaver, S.M., J. Gedamke, L.T. Hatch, R.P. Dziak, S. Van Parijs, M.F. McKenna, J. Barlow, C. Berchok, E. DiDonato, B. Hanson, J. Haxel, M. Holt, D. Lipski, H. Matsumoto, C. Meinig, D.K. Mellinger, S.E. Moore, E.M. Oleson, M.S. Soldevilla, and H. Klinck. 2018. Monitoring long-term soundscape trends in U.S. Waters: The NOAA/NPS Ocean Noise Reference Station Network. Marine Policy. doi: 10..1016/j.marpol.2018.01.023\nKok, A.C.M., M.J. Hildebrand, M. MacArdle, A. Martinez, L.P. Garrison, M.S. Soldevilla, and J.A. Hildebrand. 2023. Kinematics and energetics of foraging behavior in Rice’s whales of the Gulf of Mexico. Scientific Reports. doi: 10.1038/s41598-023-35049-z\nLettrich, M.D., M.J. Asaro, D.L. Borggaard, D.M. Dick, R.B. Griffis, J.A. Litz, C.D. Orphanides, D.L. Palka, M.S. Soldevilla, B. Balmer, S. Chavez, D. Cholewiak, D. Claridge, R.Y. Ewing, K.L. Fazioli, D. Fertl, E.M. Fougeres, D. Gannon, L. Garrison, J. Gilbert, A. Gorgone, A. Hohn, S. Horstman, B. Josephson, R.D. Kenney, J.J. Kiszka, K. Maze-Foley, W. McFee, K.D. Mullin, K. Murray, D.E. Pendleton, J. Robbins, J.J. Roberts, G. Rodriguez-Ferrer, E.I. Ronje, P.E. Rosel, T. Speakman, J.E. Stanistreet, T. Stevens, M. Stolen, R. Tyson Moore, N.L. Vollmer, R. Wells, H.R. Whitehead, and A. Whitt. 2023. Vulnerability to climate change of United States marine mammal stocks in the western North Atlantic, Gulf of Mexico, and Caribbean. PLOS ONE. doi: 10.1371/journal.pone.0290643\nRankin, S., T. Sakai, F.I. Archer, J. Barlow, D. Cholewiak, A.I. DeAngelis, J.L.K. McCullough, E.M. Oleson, A.E. Simonis, M.S. Soldevilla, and J.S. Trickey. 2024. Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics. doi: 10.1016/j.ecoinf.2024.10251\nRice, A.N., M.S. Soldevilla, and J.A. Quinlan. 2017. Nocturnal patterns in fish chorusing off the coasts of Georgia and eastern Florida. Bulletin of Marine Science. doi: 10.5343/bms.2016.1043\nRoch, M.A., H. Batchelor, S. Baumann-Pickering, C.L. Berchok, D. Cholewiak, E. Fujioka, E.C. Garland, S. Herbert, J.A. Hildebrand, E.M. Oleson, S. Van Parijs, D. Risch, A. Sirovic, and M.S. Soldevilla. 2016. Management of acoustic metadata for bioacoustics. Ecological Informatics. doi: 10.1016/j.ecoinf.2015.12.002\nRosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, M.S. Soldevilla, M. Srinivasan, L.A. Wilcox, T. Yamada, and B.J. Zoodsma. 2022. Response to Corkeron et al. “Balaenoptera ricei is also the Gulf of Mexico whale”. Marine Mammal Science. doi: 10.1111.mms.12927\nSoldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. doi: 10.7289/V5/TM-SEFSC-697\nSoldevilla, M.S., J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde’s whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. doi: 10.3354/esr00834\nSoldevilla, M.S., K. Ternus, A. Cook, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice’s whale calls. Journal of the Acoustical Society of America. 151(6). doi:10.1121/10.0011677\nSoldevilla, M.S., A.N. Rice, C.W. Clark, and L.P. Garrison. 2014. Passive acoustic monitoring on the North Atlantic right whale calving grounds. Endangered Species Research. 25:115-140. doi: 10.3354/esr00603\nSoldevilla, M.S., S. Baumann-Pickering, D. Cholewiak, L.E.W. Hodge, E.M. Oleson, and S. Rankin. 2017. Geographic variation in Risso’s dolphin echolocation click spectra. Journal of the Acoustical Society of America. 142(2). doi: 10.1121/1.4996002\nSoldevilla, M.S., A.J. Debich, L.P. Garrison, J.A. Hildebrand, and S.M. Wiggins. 2022. Rice’s whales in the northwestern Gulf of Mexico: call variation and occurrence beyond the known core habitat. Endangered Species Research. 48: 155-173. doi: 10.3354/esr01196\nSoldevilla, M.S., A.J. Debich, I. Perez-Carballo, S. Jarriel, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice’s whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. doi: 10.1111/mms.13109\nSolsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins, M. Soldevilla, L. Garrison, and J.A. Hildebrand. 2024. Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring. Marine Ecology Progress Series. 746: 121-140. doi: 10.3354/meps14693",
+    "text": "Barry, K.P., K.D. Mullin, K. Maze-Foley, L.A. Wilcox Talbot, P.E. Rosel, M.S. Soldevilla, L.A. Dias, M.R. Ramirez-Leon, and J.A. Litz. 2024. Killer whales in the Gulf of Mexico and North Atlantic off the Southeastern United States. Frontiers in Marine Science. doi: 10.3389/fmars.2024.1360314 \nDavis, G.E., M.F. Baumgartner, J.M. Bonnell, J. Bell, C. Berchok, J. Bort Thornton, S. Brault, G. Buchanan, R.A. Charif, D. Cholewiak, C.W. Clark, P. Corkeron, J. Delarue, K. Dudzinski, L. Hatch, J. Hildebrand, L. Hodge, H. Klinck, S. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S. Parks, A.J. Read, A.N. Rice, D. Risch, A. Sirovic, M. Soldevilla, K. Stafford, J.E. Stanistreet, E. Summers, S. Todd, A. Warde, and S.M. Van Parijs. 2017. Long-term passive acoustic recordings track the changing distribution of North Atlantic right whales (Eubalaena glacialis) from 2004 to 2014. Scientific Reports. doi: 10.1038/s41598-017-13359-3 \nDavis, G.E., M.F. Baumgartner, P.J. Corkeron, J. Bell, C. Berchok, J.M. Bonnell, J. Bort Thornton, S. Brault, G.A. Buchanan, D.M. Cholewiak, C.W. Clark, J. Delarue, L.T. Hatch, H. Klinck, S.D. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S.E. Parks, D. Parry, N. Pegg, A.J. Read, A.N. Rice, D. Risch, A. Scott, M.S. Soldevilla, K.M. Stafford, J.E. Stanistreet, E. Summers, S. Todd, S.M. Van Parijs. 2020. Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data. Global Change Biology. doi: 10.1111/gcb.15191 \nFrasier, K.E., M.A. Roch, M.S. Soldevilla, S.M. Wiggins, L.P. Garrison, and J.A. Hildebrand. 2017. Automated classification of dolphin echolocation click types from the Gulf of Mexico. PLOS Computational Biology. doi: 10.1371/journal.pcbi.1005823 \nFrasier, K.E., L.P. Garrison, M.S. Soldevilla, S.M. Wiggins, and J.A. Hildebrand. 2021. Cetacean distribution models based on visual and passive acoustic data. Scientific Reports. doi: 10.1038/s41598-021-87577-1 \nGarrison, L.P., M.S. Soldevilla, A. Martinez, and K.D. Mullin. 2024. A density surface model describing the habitat of the Critically Endangered Rice’s whale Balaenoptera ricei in the Gulf of Mexico. Endangered Species Research. doi: 10.3354/esr01324 \nHaver, S.M., J. Gedamke, L.T. Hatch, R.P. Dziak, S. Van Parijs, M.F. McKenna, J. Barlow, C. Berchok, E. DiDonato, B. Hanson, J. Haxel, M. Holt, D. Lipski, H. Matsumoto, C. Meinig, D.K. Mellinger, S.E. Moore, E.M. Oleson, M.S. Soldevilla, and H. Klinck. 2018. Monitoring long-term soundscape trends in U.S. Waters: The NOAA/NPS Ocean Noise Reference Station Network. Marine Policy. doi: 10..1016/j.marpol.2018.01.023 \nKok, A.C.M., M.J. Hildebrand, M. MacArdle, A. Martinez, L.P. Garrison, M.S. Soldevilla, and J.A. Hildebrand. 2023. Kinematics and energetics of foraging behavior in Rice’s whales of the Gulf of Mexico. Scientific Reports. doi: 10.1038/s41598-023-35049-z \nLettrich, M.D., M.J. Asaro, D.L. Borggaard, D.M. Dick, R.B. Griffis, J.A. Litz, C.D. Orphanides, D.L. Palka, M.S. Soldevilla, B. Balmer, S. Chavez, D. Cholewiak, D. Claridge, R.Y. Ewing, K.L. Fazioli, D. Fertl, E.M. Fougeres, D. Gannon, L. Garrison, J. Gilbert, A. Gorgone, A. Hohn, S. Horstman, B. Josephson, R.D. Kenney, J.J. Kiszka, K. Maze-Foley, W. McFee, K.D. Mullin, K. Murray, D.E. Pendleton, J. Robbins, J.J. Roberts, G. Rodriguez-Ferrer, E.I. Ronje, P.E. Rosel, T. Speakman, J.E. Stanistreet, T. Stevens, M. Stolen, R. Tyson Moore, N.L. Vollmer, R. Wells, H.R. Whitehead, and A. Whitt. 2023. Vulnerability to climate change of United States marine mammal stocks in the western North Atlantic, Gulf of Mexico, and Caribbean. PLOS ONE. doi: 10.1371/journal.pone.0290643 \nRankin, S., T. Sakai, F.I. Archer, J. Barlow, D. Cholewiak, A.I. DeAngelis, J.L.K. McCullough, E.M. Oleson, A.E. Simonis, M.S. Soldevilla, and J.S. Trickey. 2024. Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics. doi: 10.1016/j.ecoinf.2024.10251 \nRice, A.N., M.S. Soldevilla, and J.A. Quinlan. 2017. Nocturnal patterns in fish chorusing off the coasts of Georgia and eastern Florida. Bulletin of Marine Science. doi: 10.5343/bms.2016.1043\nRoch, M.A., H. Batchelor, S. Baumann-Pickering, C.L. Berchok, D. Cholewiak, E. Fujioka, E.C. Garland, S. Herbert, J.A. Hildebrand, E.M. Oleson, S. Van Parijs, D. Risch, A. Sirovic, and M.S. Soldevilla. 2016. Management of acoustic metadata for bioacoustics. Ecological Informatics. doi: 10.1016/j.ecoinf.2015.12.002 \nRosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, M.S. Soldevilla, M. Srinivasan, L.A. Wilcox, T. Yamada, and B.J. Zoodsma. 2022. Response to Corkeron et al. “Balaenoptera ricei is also the Gulf of Mexico whale”. Marine Mammal Science. doi: 10.1111.mms.12927 \nSoldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. doi: 10.7289/V5/TM-SEFSC-697 \nSoldevilla, M.S., J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde’s whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. doi: 10.3354/esr00834 \nSoldevilla, M.S., K. Ternus, A. Cook, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice’s whale calls. Journal of the Acoustical Society of America. 151(6). doi:10.1121/10.0011677 \nSoldevilla, M.S., A.N. Rice, C.W. Clark, and L.P. Garrison. 2014. Passive acoustic monitoring on the North Atlantic right whale calving grounds. Endangered Species Research. 25:115-140. doi: 10.3354/esr00603 \nSoldevilla, M.S., S. Baumann-Pickering, D. Cholewiak, L.E.W. Hodge, E.M. Oleson, and S. Rankin. 2017. Geographic variation in Risso’s dolphin echolocation click spectra. Journal of the Acoustical Society of America. 142(2). doi: 10.1121/1.4996002 \nSoldevilla, M.S., A.J. Debich, L.P. Garrison, J.A. Hildebrand, and S.M. Wiggins. 2022. Rice’s whales in the northwestern Gulf of Mexico: call variation and occurrence beyond the known core habitat. Endangered Species Research. 48: 155-173. doi: 10.3354/esr01196 \nSoldevilla, M.S., A.J. Debich, I. Perez-Carballo, S. Jarriel, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice’s whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. doi: 10.1111/mms.13109 \nSolsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins, M. Soldevilla, L. Garrison, and J.A. Hildebrand. 2024. Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring. Marine Ecology Progress Series. 746: 121-140. doi: 10.3354/meps14693",
     "crumbs": [
-      "Optional Pages",
       "Publications and Presentations"
     ]
   },
@@ -97,9 +118,38 @@
     "href": "content/PublicationsPresentations.html#publications",
     "title": "Publications and Presentations",
     "section": "",
-    "text": "Barry, K.P., K.D. Mullin, K. Maze-Foley, L.A. Wilcox Talbot, P.E. Rosel, M.S. Soldevilla, L.A. Dias, M.R. Ramirez-Leon, and J.A. Litz. 2024. Killer whales in the Gulf of Mexico and North Atlantic off the Southeastern United States. Frontiers in Marine Science. doi: 10.3389/fmars.2024.1360314\nDavis, G.E., M.F. Baumgartner, J.M. Bonnell, J. Bell, C. Berchok, J. Bort Thornton, S. Brault, G. Buchanan, R.A. Charif, D. Cholewiak, C.W. Clark, P. Corkeron, J. Delarue, K. Dudzinski, L. Hatch, J. Hildebrand, L. Hodge, H. Klinck, S. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S. Parks, A.J. Read, A.N. Rice, D. Risch, A. Sirovic, M. Soldevilla, K. Stafford, J.E. Stanistreet, E. Summers, S. Todd, A. Warde, and S.M. Van Parijs. 2017. Long-term passive acoustic recordings track the changing distribution of North Atlantic right whales (Eubalaena glacialis) from 2004 to 2014. Scientific Reports. doi: 10.1038/s41598-017-13359-3\nDavis, G.E., M.F. Baumgartner, P.J. Corkeron, J. Bell, C. Berchok, J.M. Bonnell, J. Bort Thornton, S. Brault, G.A. Buchanan, D.M. Cholewiak, C.W. Clark, J. Delarue, L.T. Hatch, H. Klinck, S.D. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S.E. Parks, D. Parry, N. Pegg, A.J. Read, A.N. Rice, D. Risch, A. Scott, M.S. Soldevilla, K.M. Stafford, J.E. Stanistreet, E. Summers, S. Todd, S.M. Van Parijs. 2020. Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data. Global Change Biology. doi: 10.1111/gcb.15191\nFrasier, K.E., M.A. Roch, M.S. Soldevilla, S.M. Wiggins, L.P. Garrison, and J.A. Hildebrand. 2017. Automated classification of dolphin echolocation click types from the Gulf of Mexico. PLOS Computational Biology. doi: 10.1371/journal.pcbi.1005823\nFrasier, K.E., L.P. Garrison, M.S. Soldevilla, S.M. Wiggins, and J.A. Hildebrand. 2021. Cetacean distribution models based on visual and passive acoustic data. Scientific Reports. doi: 10.1038/s41598-021-87577-1\nGarrison, L.P., M.S. Soldevilla, A. Martinez, and K.D. Mullin. 2024. A density surface model describing the habitat of the Critically Endangered Rice’s whale Balaenoptera ricei in the Gulf of Mexico. Endangered Species Research. doi: 10.3354/esr01324\nHaver, S.M., J. Gedamke, L.T. Hatch, R.P. Dziak, S. Van Parijs, M.F. McKenna, J. Barlow, C. Berchok, E. DiDonato, B. Hanson, J. Haxel, M. Holt, D. Lipski, H. Matsumoto, C. Meinig, D.K. Mellinger, S.E. Moore, E.M. Oleson, M.S. Soldevilla, and H. Klinck. 2018. Monitoring long-term soundscape trends in U.S. Waters: The NOAA/NPS Ocean Noise Reference Station Network. Marine Policy. doi: 10..1016/j.marpol.2018.01.023\nKok, A.C.M., M.J. Hildebrand, M. MacArdle, A. Martinez, L.P. Garrison, M.S. Soldevilla, and J.A. Hildebrand. 2023. Kinematics and energetics of foraging behavior in Rice’s whales of the Gulf of Mexico. Scientific Reports. doi: 10.1038/s41598-023-35049-z\nLettrich, M.D., M.J. Asaro, D.L. Borggaard, D.M. Dick, R.B. Griffis, J.A. Litz, C.D. Orphanides, D.L. Palka, M.S. Soldevilla, B. Balmer, S. Chavez, D. Cholewiak, D. Claridge, R.Y. Ewing, K.L. Fazioli, D. Fertl, E.M. Fougeres, D. Gannon, L. Garrison, J. Gilbert, A. Gorgone, A. Hohn, S. Horstman, B. Josephson, R.D. Kenney, J.J. Kiszka, K. Maze-Foley, W. McFee, K.D. Mullin, K. Murray, D.E. Pendleton, J. Robbins, J.J. Roberts, G. Rodriguez-Ferrer, E.I. Ronje, P.E. Rosel, T. Speakman, J.E. Stanistreet, T. Stevens, M. Stolen, R. Tyson Moore, N.L. Vollmer, R. Wells, H.R. Whitehead, and A. Whitt. 2023. Vulnerability to climate change of United States marine mammal stocks in the western North Atlantic, Gulf of Mexico, and Caribbean. PLOS ONE. doi: 10.1371/journal.pone.0290643\nRankin, S., T. Sakai, F.I. Archer, J. Barlow, D. Cholewiak, A.I. DeAngelis, J.L.K. McCullough, E.M. Oleson, A.E. Simonis, M.S. Soldevilla, and J.S. Trickey. 2024. Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics. doi: 10.1016/j.ecoinf.2024.10251\nRice, A.N., M.S. Soldevilla, and J.A. Quinlan. 2017. Nocturnal patterns in fish chorusing off the coasts of Georgia and eastern Florida. Bulletin of Marine Science. doi: 10.5343/bms.2016.1043\nRoch, M.A., H. Batchelor, S. Baumann-Pickering, C.L. Berchok, D. Cholewiak, E. Fujioka, E.C. Garland, S. Herbert, J.A. Hildebrand, E.M. Oleson, S. Van Parijs, D. Risch, A. Sirovic, and M.S. Soldevilla. 2016. Management of acoustic metadata for bioacoustics. Ecological Informatics. doi: 10.1016/j.ecoinf.2015.12.002\nRosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, M.S. Soldevilla, M. Srinivasan, L.A. Wilcox, T. Yamada, and B.J. Zoodsma. 2022. Response to Corkeron et al. “Balaenoptera ricei is also the Gulf of Mexico whale”. Marine Mammal Science. doi: 10.1111.mms.12927\nSoldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. doi: 10.7289/V5/TM-SEFSC-697\nSoldevilla, M.S., J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde’s whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. doi: 10.3354/esr00834\nSoldevilla, M.S., K. Ternus, A. Cook, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice’s whale calls. Journal of the Acoustical Society of America. 151(6). doi:10.1121/10.0011677\nSoldevilla, M.S., A.N. Rice, C.W. Clark, and L.P. Garrison. 2014. Passive acoustic monitoring on the North Atlantic right whale calving grounds. Endangered Species Research. 25:115-140. doi: 10.3354/esr00603\nSoldevilla, M.S., S. Baumann-Pickering, D. Cholewiak, L.E.W. Hodge, E.M. Oleson, and S. Rankin. 2017. Geographic variation in Risso’s dolphin echolocation click spectra. Journal of the Acoustical Society of America. 142(2). doi: 10.1121/1.4996002\nSoldevilla, M.S., A.J. Debich, L.P. Garrison, J.A. Hildebrand, and S.M. Wiggins. 2022. Rice’s whales in the northwestern Gulf of Mexico: call variation and occurrence beyond the known core habitat. Endangered Species Research. 48: 155-173. doi: 10.3354/esr01196\nSoldevilla, M.S., A.J. Debich, I. Perez-Carballo, S. Jarriel, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice’s whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. doi: 10.1111/mms.13109\nSolsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins, M. Soldevilla, L. Garrison, and J.A. Hildebrand. 2024. Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring. Marine Ecology Progress Series. 746: 121-140. doi: 10.3354/meps14693",
+    "text": "Barry, K.P., K.D. Mullin, K. Maze-Foley, L.A. Wilcox Talbot, P.E. Rosel, M.S. Soldevilla, L.A. Dias, M.R. Ramirez-Leon, and J.A. Litz. 2024. Killer whales in the Gulf of Mexico and North Atlantic off the Southeastern United States. Frontiers in Marine Science. doi: 10.3389/fmars.2024.1360314 \nDavis, G.E., M.F. Baumgartner, J.M. Bonnell, J. Bell, C. Berchok, J. Bort Thornton, S. Brault, G. Buchanan, R.A. Charif, D. Cholewiak, C.W. Clark, P. Corkeron, J. Delarue, K. Dudzinski, L. Hatch, J. Hildebrand, L. Hodge, H. Klinck, S. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S. Parks, A.J. Read, A.N. Rice, D. Risch, A. Sirovic, M. Soldevilla, K. Stafford, J.E. Stanistreet, E. Summers, S. Todd, A. Warde, and S.M. Van Parijs. 2017. Long-term passive acoustic recordings track the changing distribution of North Atlantic right whales (Eubalaena glacialis) from 2004 to 2014. Scientific Reports. doi: 10.1038/s41598-017-13359-3 \nDavis, G.E., M.F. Baumgartner, P.J. Corkeron, J. Bell, C. Berchok, J.M. Bonnell, J. Bort Thornton, S. Brault, G.A. Buchanan, D.M. Cholewiak, C.W. Clark, J. Delarue, L.T. Hatch, H. Klinck, S.D. Kraus, B. Martin, D.K. Mellinger, H. Moors-Murphy, S. Nieukirk, D.P. Nowacek, S.E. Parks, D. Parry, N. Pegg, A.J. Read, A.N. Rice, D. Risch, A. Scott, M.S. Soldevilla, K.M. Stafford, J.E. Stanistreet, E. Summers, S. Todd, S.M. Van Parijs. 2020. Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data. Global Change Biology. doi: 10.1111/gcb.15191 \nFrasier, K.E., M.A. Roch, M.S. Soldevilla, S.M. Wiggins, L.P. Garrison, and J.A. Hildebrand. 2017. Automated classification of dolphin echolocation click types from the Gulf of Mexico. PLOS Computational Biology. doi: 10.1371/journal.pcbi.1005823 \nFrasier, K.E., L.P. Garrison, M.S. Soldevilla, S.M. Wiggins, and J.A. Hildebrand. 2021. Cetacean distribution models based on visual and passive acoustic data. Scientific Reports. doi: 10.1038/s41598-021-87577-1 \nGarrison, L.P., M.S. Soldevilla, A. Martinez, and K.D. Mullin. 2024. A density surface model describing the habitat of the Critically Endangered Rice’s whale Balaenoptera ricei in the Gulf of Mexico. Endangered Species Research. doi: 10.3354/esr01324 \nHaver, S.M., J. Gedamke, L.T. Hatch, R.P. Dziak, S. Van Parijs, M.F. McKenna, J. Barlow, C. Berchok, E. DiDonato, B. Hanson, J. Haxel, M. Holt, D. Lipski, H. Matsumoto, C. Meinig, D.K. Mellinger, S.E. Moore, E.M. Oleson, M.S. Soldevilla, and H. Klinck. 2018. Monitoring long-term soundscape trends in U.S. Waters: The NOAA/NPS Ocean Noise Reference Station Network. Marine Policy. doi: 10..1016/j.marpol.2018.01.023 \nKok, A.C.M., M.J. Hildebrand, M. MacArdle, A. Martinez, L.P. Garrison, M.S. Soldevilla, and J.A. Hildebrand. 2023. Kinematics and energetics of foraging behavior in Rice’s whales of the Gulf of Mexico. Scientific Reports. doi: 10.1038/s41598-023-35049-z \nLettrich, M.D., M.J. Asaro, D.L. Borggaard, D.M. Dick, R.B. Griffis, J.A. Litz, C.D. Orphanides, D.L. Palka, M.S. Soldevilla, B. Balmer, S. Chavez, D. Cholewiak, D. Claridge, R.Y. Ewing, K.L. Fazioli, D. Fertl, E.M. Fougeres, D. Gannon, L. Garrison, J. Gilbert, A. Gorgone, A. Hohn, S. Horstman, B. Josephson, R.D. Kenney, J.J. Kiszka, K. Maze-Foley, W. McFee, K.D. Mullin, K. Murray, D.E. Pendleton, J. Robbins, J.J. Roberts, G. Rodriguez-Ferrer, E.I. Ronje, P.E. Rosel, T. Speakman, J.E. Stanistreet, T. Stevens, M. Stolen, R. Tyson Moore, N.L. Vollmer, R. Wells, H.R. Whitehead, and A. Whitt. 2023. Vulnerability to climate change of United States marine mammal stocks in the western North Atlantic, Gulf of Mexico, and Caribbean. PLOS ONE. doi: 10.1371/journal.pone.0290643 \nRankin, S., T. Sakai, F.I. Archer, J. Barlow, D. Cholewiak, A.I. DeAngelis, J.L.K. McCullough, E.M. Oleson, A.E. Simonis, M.S. Soldevilla, and J.S. Trickey. 2024. Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics. doi: 10.1016/j.ecoinf.2024.10251 \nRice, A.N., M.S. Soldevilla, and J.A. Quinlan. 2017. Nocturnal patterns in fish chorusing off the coasts of Georgia and eastern Florida. Bulletin of Marine Science. doi: 10.5343/bms.2016.1043\nRoch, M.A., H. Batchelor, S. Baumann-Pickering, C.L. Berchok, D. Cholewiak, E. Fujioka, E.C. Garland, S. Herbert, J.A. Hildebrand, E.M. Oleson, S. Van Parijs, D. Risch, A. Sirovic, and M.S. Soldevilla. 2016. Management of acoustic metadata for bioacoustics. Ecological Informatics. doi: 10.1016/j.ecoinf.2015.12.002 \nRosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, M.S. Soldevilla, M. Srinivasan, L.A. Wilcox, T. Yamada, and B.J. Zoodsma. 2022. Response to Corkeron et al. “Balaenoptera ricei is also the Gulf of Mexico whale”. Marine Mammal Science. doi: 10.1111.mms.12927 \nSoldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. doi: 10.7289/V5/TM-SEFSC-697 \nSoldevilla, M.S., J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde’s whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. doi: 10.3354/esr00834 \nSoldevilla, M.S., K. Ternus, A. Cook, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice’s whale calls. Journal of the Acoustical Society of America. 151(6). doi:10.1121/10.0011677 \nSoldevilla, M.S., A.N. Rice, C.W. Clark, and L.P. Garrison. 2014. Passive acoustic monitoring on the North Atlantic right whale calving grounds. Endangered Species Research. 25:115-140. doi: 10.3354/esr00603 \nSoldevilla, M.S., S. Baumann-Pickering, D. Cholewiak, L.E.W. Hodge, E.M. Oleson, and S. Rankin. 2017. Geographic variation in Risso’s dolphin echolocation click spectra. Journal of the Acoustical Society of America. 142(2). doi: 10.1121/1.4996002 \nSoldevilla, M.S., A.J. Debich, L.P. Garrison, J.A. Hildebrand, and S.M. Wiggins. 2022. Rice’s whales in the northwestern Gulf of Mexico: call variation and occurrence beyond the known core habitat. Endangered Species Research. 48: 155-173. doi: 10.3354/esr01196 \nSoldevilla, M.S., A.J. Debich, I. Perez-Carballo, S. Jarriel, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice’s whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. doi: 10.1111/mms.13109 \nSolsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins, M. Soldevilla, L. Garrison, and J.A. Hildebrand. 2024. Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring. Marine Ecology Progress Series. 746: 121-140. doi: 10.3354/meps14693",
     "crumbs": [
-      "Optional Pages",
+      "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html#presentations",
+    "href": "content/PublicationsPresentations.html#presentations",
+    "title": "Publications and Presentations",
+    "section": "Presentations",
+    "text": "Presentations",
+    "crumbs": [
+      "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html#news",
+    "href": "content/PublicationsPresentations.html#news",
+    "title": "Publications and Presentations",
+    "section": "News",
+    "text": "News\nRice’s Whales Heard in the Western Gulf of Mexico",
+    "crumbs": [
+      "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html#blogs",
+    "href": "content/PublicationsPresentations.html#blogs",
+    "title": "Publications and Presentations",
+    "section": "Blogs",
+    "text": "Blogs\nCollecting Information to Restore Marine Mammals and Seabirds in the Gulf of Mexico\nDeploying Passive Acoustic Recorders for North Atlantic Right Whale Calving Season\nGraduate students developed videos in English and Spanish describing the Gulf LISTEN HARP servicing cruises as part of the LISTEN GoMex project.\nIn the Field: First hand accounts from researchers straight from the field (by Scripps Institution of Oceanography Researchers)",
+    "crumbs": [
       "Publications and Presentations"
     ]
   },
@@ -341,7 +391,17 @@
     "href": "content/FieldMethods.html#manuals",
     "title": "Field Methods",
     "section": "Manuals",
-    "text": "Manuals\nSEFSC AMMAPS 2013 Array Info\nTeledyne Impulse Connector Care Instructions\nWiring Diagram NMFS CSFalmat Cable Corrected\nTroubleshooting SB computer noise testing screenshots\nA field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "text": "Manuals\nSEFSC AMMAPS 2013 Array Info\nSoundTrap User Guide\nTeledyne Impulse Connector Care Instructions\nWiring Diagram NMFS CSFalmat Cable Corrected",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#troubleshooting",
+    "href": "content/FieldMethods.html#troubleshooting",
+    "title": "Field Methods",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nTroubleshooting SB computer noise testing screenshots",
     "crumbs": [
       "Field Methods"
     ]
@@ -362,11 +422,7 @@
     "href": "content/Resources.html",
     "title": "Resources",
     "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to.",
-    "crumbs": [
-      "Optional Pages",
-      "Resources"
-    ]
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
   },
   {
     "objectID": "content/Safety.html",
@@ -500,11 +556,7 @@
     "href": "content/Offboarding.html",
     "title": "Offboarding",
     "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Offboarding"
-    ]
+    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
   },
   {
     "objectID": "content/LabManagement.html",
@@ -521,7 +573,18 @@
     "href": "content/Software.html",
     "title": "Software",
     "section": "",
-    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
+    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nPreviously used software:\nWavesurfer",
+    "crumbs": [
+      "Software & Analysis Methods",
+      "Software"
+    ]
+  },
+  {
+    "objectID": "content/Software.html#acoustic-analysis-software",
+    "href": "content/Software.html#acoustic-analysis-software",
+    "title": "Software",
+    "section": "",
+    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nPreviously used software:\nWavesurfer",
     "crumbs": [
       "Software & Analysis Methods",
       "Software"
@@ -532,11 +595,7 @@
     "href": "content/OpenScience.html",
     "title": "Open Science",
     "section": "",
-    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example",
-    "crumbs": [
-      "Optional Pages",
-      "Open Science"
-    ]
+    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example"
   },
   {
     "objectID": "content/Inventory.html",
