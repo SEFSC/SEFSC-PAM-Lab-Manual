@@ -1,5 +1,6 @@
 ---
 title: Lab Management
+subtitle: "SEFSC Passive Acoustic Ecology Program"
 ---
 
 A lab management section is required and should include the following information;

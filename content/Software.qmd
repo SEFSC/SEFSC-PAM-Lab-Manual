@@ -1,5 +1,6 @@
 ---
 title: Software
+subtitle: "SEFSC Passive Acoustic Ecology Program"
 ---
 
 ## Acoustic Analysis Software

@@ -1,5 +1,6 @@
 ---
 title: Analysis Methods
+subtitle: "SEFSC Passive Acoustic Ecology Program"
 ---
 
 ## Raw Acoustic Data
@@ -9,7 +10,7 @@ title: Analysis Methods
 
 ### Odontocete Analyses
 
-#### click Classification
+#### Click Classification
 
 #### Density Estimation
 

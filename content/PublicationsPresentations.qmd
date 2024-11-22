@@ -1,5 +1,6 @@
 ---
 title: Publications and Presentations
+subtitle: "SEFSC Passive Acoustic Ecology Program"
 ---
 
 ## Publications

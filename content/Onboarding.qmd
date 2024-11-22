@@ -1,5 +1,6 @@
 ---
 title: Onboarding
+subtitle: "SEFSC Passive Acoustic Ecology Program"
 ---
 
 ## New Staff
