@@ -12,7 +12,7 @@ page-layout: full
 
 The Passive Acoustic Ecology Program conducts a variety of [research projects](https://www.fisheries.noaa.gov/science-data/passive-acoustic-research-southeast-fisheries-science-center) that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA's Southeast Fisheries Science Center in Miami, Florida.
 
-This lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.
+This lab manual serves as the go-to handbook for the behind-the-scenes information to support our science. It serves as a document for keeping institutional knowledge by providing information on various procedures, field methods, analyses, inventories, and available resources, among other things.
 
 ## Team Members
 

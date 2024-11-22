@@ -7,7 +7,7 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 
 While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods. 
 
-Autonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling. 
+Autonomous recorders include [HARPs (High-frequency Acoustic Recording Packages)](https://www.cetus.ucsd.edu/technologies_HARP.html), [MARUs (Marine Acoustic Recording Units)](https://www.birds.cornell.edu/ccb/rockhopper-unit/), and [SoundTrapsTM](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/). They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling. 
 
 These moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.
 
@@ -20,8 +20,9 @@ The array contains multiple hydrophones, each recording sounds as they arrive. T
 
 These data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species. 
 
-![](content/images/towedarray.png)
-*A hydrophone array being towed behind the ship. This array is towed 300 m behind the ship and usually stays submerged between nine and 12 meters (30-40 feet) depth. We use a custom-built modular array capable of recording a broad range of sound frequencies. Credit: NOAA Fisheries / Amanda Debich
+![](images/towedarray.png)
+
+*A hydrophone array being towed behind the ship. This array is towed 300 m behind the ship and usually stays submerged between nine and 12 meters (30-40 feet) depth. We use a custom-built modular array capable of recording a broad range of sound frequencies. Credit: NOAA Fisheries / Amanda Debich*
 
 
 ## Drifting Acoustic Recorders
@@ -42,8 +43,9 @@ We also collect data on acoustic behavior, fine-scale movement, and dive behavio
 
 The tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.
 
-![](content/images/Acousondetag.png)
-*An AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)
+![](images/Acousondetag.png)
+
+*An AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)*
 
 
 <!-- A hardware section is required and should include the following information; -->

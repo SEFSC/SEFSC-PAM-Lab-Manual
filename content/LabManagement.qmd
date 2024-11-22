@@ -7,4 +7,4 @@ A lab management section is required and should include the following informatio
 
 -   Safety
 -   Inventory
--   Hardware
+<!-- -   Hardware -->
