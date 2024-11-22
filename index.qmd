@@ -6,10 +6,9 @@ page-layout: full
 
 ## SEFSC Passive Acoustic Ecology Program Lab Manual
 
-![](content/images/Rices.png) 
+![](content/images/Rices.png)
 
 *Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)*
-
 
 The Passive Acoustic Ecology Program conducts a variety of [research projects](https://www.fisheries.noaa.gov/science-data/passive-acoustic-research-southeast-fisheries-science-center) that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA's Southeast Fisheries Science Center in Miami, Florida.
 
@@ -17,11 +16,11 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 ## Team Members
 
-### Current Members:
+### Principal Investigator
 
 [Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd), Passive Acoustic Ecology Program Lead
 
-[Ashley Cook](https://www.fisheries.noaa.gov/contact/ashley-cook), Doctoral student at University of Miami, Rice’s whale studies
+### Researchers
 
 [Amanda Debich](https://www.fisheries.noaa.gov/contact/amanda-debich), Lead acoustic technician for Rice’s whale studies
 
@@ -29,27 +28,39 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 [Lynne Hodge](https://www.fisheries.noaa.gov/contact/lynne-hodge-phd), Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization
 
-Shannon Merkle, Research associate, North Atlantic right whale call analysis and field technician
+[Ludovic Tenorio](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Rice’s whale studies
 
-Emily Stens, MPS student 2024
+### Graduate Students
 
-[Ludovic Tenorio](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Postdoctoral associate, Rice’s whale studies
+[Ashley Cook](https://www.fisheries.noaa.gov/contact/ashley-cook), Doctoral student at University of Miami, Rice’s whale studies
 
-### Previous Members:
+### Volunteers
 
-Jonathan Reid
+Emily Stens
 
-Itzel Perez Carballo
+### Former Members
 
-Beyza Gul, Lapenta Intern Summer 2024
+Researcher Staff: Shannon Merkle, Jonathan Reid
 
-Sierra Jarriel, MPS student 2021-2022
+Graduate Students: Sierra Jarriel, Itzel Perez Carballo
 
-Miles Lubas, Undergraduate Fall 2024
+<!-- Undergraduate Students:  -->
 
-Vanessa Lundsten, post-MPS volunteer 2023
+Interns: Beyza Gul, Alexandria Tennant
 
-Alexandria Tennant, Savannah State University Undergraduate Summer 2023, Rice's whale spatiotemporal occurrence in the Gulf of Mexico using passive acoustics
+Volunteers: Miles Lubas, Vanessa Lundsten
+
+<!-- Itzel Perez Carballo -->
+
+<!-- Beyza Gul, Lapenta Intern Summer 2024 -->
+
+<!-- Sierra Jarriel, MPS student 2021-2022 -->
+
+<!-- Miles Lubas, Undergraduate Fall 2024 -->
+
+<!-- Vanessa Lundsten, post-MPS volunteer 2023 -->
+
+<!-- Alexandria Tennant, Savannah State University Undergraduate Summer 2023, Rice's whale spatiotemporal occurrence in the Gulf of Mexico using passive acoustics -->
 
 ## Partners
 
