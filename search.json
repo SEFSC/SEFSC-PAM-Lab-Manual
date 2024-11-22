@@ -24,7 +24,7 @@
     "href": "index.html#team-members",
     "title": "Home",
     "section": "Team Members",
-    "text": "Team Members\n\nCurrent Members:\nMelissa Soldevilla, Passive Acoustic Ecology Program Lead\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nShannon Merkle, Research associate, North Atlantic right whale call analysis and field technician\nEmily Stens, MPS student 2024\nLudovic Tenorio, Postdoctoral associate, Rice’s whale studies\n\n\nPrevious Members:\nJonathan Reid\nItzel Perez Carballo\nBeyza Gul, Lapenta Intern Summer 2024\nSierra Jarriel, MPS student 2021-2022\nMiles Lubas, Undergraduate Fall 2024\nVanessa Lundsten, post-MPS volunteer 2023\nAlexandria Tennant, Savannah State University Undergraduate Summer 2023, Rice’s whale spatiotemporal occurrence in the Gulf of Mexico using passive acoustics",
+    "text": "Team Members\n\nPrincipal Investigator\nMelissa Soldevilla, Passive Acoustic Ecology Program Lead\n\n\nResearchers\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nLudovic Tenorio, Rice’s whale studies\n\n\nGraduate Students\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\n\n\nVolunteers\nEmily Stens\n\n\nFormer Members\nResearcher Staff: Shannon Merkle, Jonathan Reid\nGraduate Students: Sierra Jarriel, Itzel Perez Carballo\n\nInterns: Beyza Gul, Alexandria Tennant\nVolunteers: Miles Lubas, Vanessa Lundsten",
     "crumbs": [
       "Home"
     ]
@@ -44,7 +44,10 @@
     "href": "content/Onboarding.html",
     "title": "Onboarding",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example"
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "crumbs": [
+      "Onboarding Material"
+    ]
   },
   {
     "objectID": "content/TrainingMaterial.html",
