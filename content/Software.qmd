@@ -21,11 +21,6 @@ Ishmael
 
 [Triton](https://github.com/MarineBioAcousticsRC/Triton)
 
-
-
-**Previously used software:**
-
-
 Wavesurfer
 
 

@@ -42,9 +42,6 @@ Roch, M.A., H. Batchelor, S. Baumann-Pickering, C.L. Berchok, D. Cholewiak, E. F
 Rosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, M.S. Soldevilla, M. Srinivasan, L.A. Wilcox, T. Yamada, and B.J. Zoodsma. 2022. Response to Corkeron et al. "*Balaenoptera ricei* is also the Gulf of Mexico whale". Marine Mammal Science. doi: 10.1111.mms.12927
 <!-- (content/pubs/Rosel et al. 2022.pdf) -->
 
-Soldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. [doi: 10.7289/V5/TM-SEFSC-697](https://repository.library.noaa.gov/view/noaa/12515)
-<!-- (content/pubs/Soldevilla et al. 2016.pdf) -->
-
 Soldevilla, M.S., J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde's whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. [doi: 10.3354/esr00834](https://www.int-res.com/articles/suppl/n032p533_supp.pdf)
 <!-- (content/pubs/Soldevilla et al. 2017 ESR.pdf) -->
 
@@ -67,12 +64,25 @@ Solsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins
 <!-- (content/pubs/Solsona-Berga et al. 2024.pdf) -->
 
 
+## Reports
+
+Soldvilla, M.S., L.P. Garrison, E. Scott-Denton, and R.A. Hart. 2016. Estimated bycatch mortality of marine mammals in the Gulf of Mexico shrimp otter trawl fishery during 2012 to 2014. NOAA Technical Memorandum NMFS-SEFSC-697. [doi: 10.7289/V5/TM-SEFSC-697](https://repository.library.noaa.gov/view/noaa/12515)
+
+Rafter, M.A., K.E. Frasier, M.S. Soldevilla, L. Hodge, H. Frouin-Mouy, and I. Perex Carballo. 2022. LISTEN GoMex: 2010-2021 - Long-term Investigations into Soundscapes, Trends, Ecosystems, and Noise in the Gulf of Mexico. Marine Physical Laboratory, Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA. [MPL Technical Memorandum #662.](https://repository.library.noaa.gov/view/noaa/52101#moretextPAmods.subject_name)
+
+Frasier, K.E., M.S. Soldevilla, M.A. Kadifa, L. Hodge, H. Frouin-Mouy, L. Tenorio-Halle, A. Debich, I. Perez Carballo, K. Johnson, I.C. Barrera Diaz, A. Gracia, A. Serrano, L.P. Garrison, J.A. Hildebrand, M. Le Henaff, J. Ortega Ortiz, and C. Wall-Bell. 2023. LISTEN GoMex: 2020-2023 - Long-term Investigations into Soundscapes, Trends, Ecosystems, and Noise in the Gulf of Mexico. Marine Physical Laboratory, Scripps Insitution of Oceanography, University of California San Diego, La Jolla, CA. [MPL Technical Memorandum #667. Version 1.3.](https://repository.library.noaa.gov/view/noaa/61644)
+
+
 ## Presentations
 
 
 ## News
 
 [Rice's Whales Heard in the Western Gulf of Mexico](https://www.fisheries.noaa.gov/feature-story/rices-whales-heard-western-gulf-mexico)
+
+[Listening to a New Species, the Rice's Whale, to Support its Conservation](https://www.fisheries.noaa.gov/southeast/science-data/listening-new-species-rices-whale-support-its-conservation)
+
+[Rice's Whale Occurrence in the Western Gulf of Mexico from Passive Acoustic Recordings](https://www.fisheries.noaa.gov/resource/peer-reviewed-research/rices-whale-occurrence-western-gulf-mexico-passive-acoustic)
 
 
 ## Blogs
