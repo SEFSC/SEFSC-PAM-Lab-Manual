@@ -11,6 +11,7 @@ Autonomous recorders include [HARPs (High-frequency Acoustic Recording Packages)
 
 These moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.
 
+![](images/harp-diagram.jpg)
 
 ## Towed Hydrophone Array
 
