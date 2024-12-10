@@ -24,7 +24,7 @@
     "href": "index.html#team-members",
     "title": "Home",
     "section": "Team Members",
-    "text": "Team Members\n\nProgram Lead\nMelissa Soldevilla \n\n\nResearchers\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nLudovic Tenorio-Halle, Rice’s whale studies, propagation modeling, ambient noise\n\n\nGraduate Students\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\n\n\nVolunteers\nEmily Stens\n\n\nFormer Members\nResearcher Staff: Shannon Merkle, Jonathan Reid\nGraduate Students: Sierra Jarriel, Itzel Perez Carballo\n\nInterns: Beyza Gul, Alexandria Tennant\nVolunteers: Miles Lubas, Vanessa Lundsten",
+    "text": "Team Members\n\nProgram Lead\nMelissa Soldevilla \n\n\nResearchers\nManolo Castellote, Lead for North Atlantic Right Whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nLudovic Tenorio-Halle, Rice’s whale studies, propagation modeling, ambient noise\n\n\nGraduate Students\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\n\n\nVolunteers\nEmily Stens\n\n\nFormer Members\nResearcher Staff: Shannon Merkle, Jonathan Reid\nGraduate Students: Sierra Jarriel, Itzel Perez Carballo\n\nInterns: Beyza Gul, Alexandria Tennant\nVolunteers: Miles Lubas, Vanessa Lundsten",
     "crumbs": [
       "Home"
     ]
@@ -264,7 +264,7 @@
     "href": "content/AnalysisMethods.html#marine-mammal-acoustics",
     "title": "Analysis Methods",
     "section": "Marine Mammal Acoustics",
-    "text": "Marine Mammal Acoustics\n\nOdontocete Analyses\n\nClick Classification\n\n\nDensity Estimation\n\n\nBeaked Whale Tracking for Denisty Estimation Parameterization\n\n\n\nMysticete Whale Analyses\n\nRice’s Whale Automated Call Detectors\n\n\nLong-Moan Detector Settings\n\n\nDownsweep Pulse Sequence Detector Settings\n\n\nValidation of Automated Call Detections",
+    "text": "Marine Mammal Acoustics\n\nOdontocete Analyses\n\nClick Classification\n\n\nDensity Estimation\n\n\nBeaked Whale Tracking for Denisty Estimation Parameterization\n\n\n\nMysticete Whale Analyses\n\n\nRice’s Whale Automated Call Detectors\n\n\n\nLong-Moan Detector Settings\n\n\n\nDownsweep Pulse Sequence Detector Settings\n\n\n\n\nValidation of Automated Call Detections\n\n\n\n\nNorth Atlantic Right Whale Up-calls",
     "crumbs": [
       "Software & Analysis Methods",
       "Analysis Methods"
@@ -275,7 +275,7 @@
     "href": "content/AnalysisMethods.html#ambient-and-anthropogenic-noise-analyses",
     "title": "Analysis Methods",
     "section": "Ambient and Anthropogenic Noise Analyses",
-    "text": "Ambient and Anthropogenic Noise Analyses\n\nAmbient Noise Levels\n\n\nBroadband Ships\n\n\nShip Radiated Noise Levels and Monopole Source Levels\n\n\nSeismic Airguns\nAn analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
+    "text": "Ambient and Anthropogenic Noise Analyses\n\nAmbient Noise Levels\n\n\n\n\n\n\n\nBroadband Ships\n\n\n\n\n\n\n\n\nShip Radiated Noise Levels and Monopole Source Levels\n\n\n\n\n\n\n\n\n\n\n\nSeismic Airguns\n\n\nAn analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
     "crumbs": [
       "Software & Analysis Methods",
       "Analysis Methods"
