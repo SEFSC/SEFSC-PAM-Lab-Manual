@@ -15,7 +15,7 @@ Rice's Whale Western GoMX Call Examples
 Triton Guide
 
 
-### Sperm whale analysis
+## Sperm whale analysis
 
 [Getting Started - Sperm Whale 3D Tracking Project]()
 <!-- (https://docs.google.com/document/d/1dZIGURhCEpHqiqKNrRGJXT7Fx7sGwGP6/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true) -->

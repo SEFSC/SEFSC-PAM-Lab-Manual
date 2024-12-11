@@ -7,7 +7,7 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 
 While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods. 
 
-Autonomous recorders include [HARPs (High-frequency Acoustic Recording Packages)](https://www.cetus.ucsd.edu/technologies_HARP.html), [MARUs (Marine Acoustic Recording Units)](https://www.birds.cornell.edu/ccb/rockhopper-unit/), and [SoundTrapsTM](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/). They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling. 
+Autonomous recorders include [HARPs (High-frequency Acoustic Recording Packages)](https://www.cetus.ucsd.edu/docs/publications/WigginsUT07.pdf), [MARUs (Marine Acoustic Recording Units)](https://www.birds.cornell.edu/ccb/rockhopper-unit/), and [SoundTrapsTM](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/). They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling. 
 
 These moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.
 
@@ -61,3 +61,6 @@ The tags attach to the whale’s back via suction cups and remain on the whale f
 <!-- You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html)) -->
 
 <!-- This can be a section with subpages or a qmd -->
+
+
+<!-- old HARP link: (https://www.cetus.ucsd.edu/technologies_HARP.html) -->

@@ -46,7 +46,7 @@ Rosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, **M.S. Soldevill
 **Soldevilla, M.S.**, J.A. Hildebrand, K.E. Frasier, L.A. Dias, A. Martinez, K.D. Mullin, P.E. Rosel, and L.P. Garrison. 2017. Spatial distribution and dive behavior of Gulf of Mexico Bryde's whales: potential risk of vessel strikes and fisheries interactions. Endangered Species Research. [doi: 10.3354/esr00834](https://www.int-res.com/articles/suppl/n032p533_supp.pdf)
 <!-- (content/pubs/Soldevilla et al. 2017 ESR.pdf) -->
 
-**Soldevilla, M.S.**, **K. Ternus**, A. Cook, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice's whale calls. Journal of the Acoustical Society of America. 151(6). [doi:10.1121/10.0011677](https://pubs.aip.org/asa/jasa/article/151/6/4264/2839426/Acoustic-localization-validation-and)
+**Soldevilla, M.S.**, **K. Ternus**, **A. Cook**, J.A. Hildebrand, K.E. Frasier, A. Martinez, and L.P. Garrison. 2022. Acoustic localization, validation, and characterization of Rice's whale calls. Journal of the Acoustical Society of America. 151(6). [doi:10.1121/10.0011677](https://pubs.aip.org/asa/jasa/article/151/6/4264/2839426/Acoustic-localization-validation-and)
 <!-- (content/pubs/Soldevilla et al. 2022.pdf) -->
 
 **Soldevilla, M.S.**, A.N. Rice, C.W. Clark, and L.P. Garrison. 2014. Passive acoustic monitoring on the North Atlantic right whale calving grounds. Endangered Species Research. 25:115-140. [doi: 10.3354/esr00603](https://www.int-res.com/articles/esr2014/25/n025p115.pdf)
@@ -58,7 +58,7 @@ Rosel, P.E., L. Engleby, L.P. Garrison, J.A. Litz, K.D. Mullin, **M.S. Soldevill
 **Soldevilla, M.S.**, **A.J. Debich**, L.P. Garrison, J.A. Hildebrand, and S.M. Wiggins. 2022. Rice's whales in the northwestern Gulf of Mexico: call variation and occurrence beyond the known core habitat. Endangered Species Research. 48: 155-173. [doi: 10.3354/esr01196](https://www.int-res.com/articles/esr2022/48/n048p155.pdf)
 <!-- (content/pubs/Soldevilla et al. 2022 ESR.pdf) -->
 
-**Soldevilla, M.S.**, **A.J. Debich**, I. Perez-Carballo, S. Jarriel, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice's whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. [doi: 10.1111/mms.13109](https://onlinelibrary.wiley.com/doi/10.1111/mms.13109)
+**Soldevilla, M.S.**, **A.J. Debich**, I. Perez-Carballo, **S. Jarriel**, K.E. Frasier, L.P. Garrison, A. Gracia, J.A. Hildebrand, P.E. Rosel, and A. Serrano. 2024. Rice's whale occurrence in the western Gulf of Mexico from passive acoustic recordings. Marine Mammal Science. [doi: 10.1111/mms.13109](https://onlinelibrary.wiley.com/doi/10.1111/mms.13109)
 <!-- (content/pubs/Soldevilla et al. 2024 MMS.pdf) -->
 
 Solsona-Berga, A., K.E. Frasier, N. Posdaljian, S. Baumann-Pickering, S. Wiggins, **M. Soldevilla**, L. Garrison, and J.A. Hildebrand. 2024. Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring. Marine Ecology Progress Series. 746: 121-140. [doi: 10.3354/meps14693](https://www.int-res.com/articles/meps_oa/m746p121.pdf)
