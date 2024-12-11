@@ -84,7 +84,17 @@
     "href": "content/TrainingMaterial.html#software-training-guides",
     "title": "Training Material",
     "section": "Software Training Guides",
-    "text": "Software Training Guides\nTriton Guide\n\nSperm whale analysis\nGetting Started - Sperm Whale 3D Tracking Project",
+    "text": "Software Training Guides\nTriton Guide",
+    "crumbs": [
+      "Training Material"
+    ]
+  },
+  {
+    "objectID": "content/TrainingMaterial.html#sperm-whale-analysis",
+    "href": "content/TrainingMaterial.html#sperm-whale-analysis",
+    "title": "Training Material",
+    "section": "Sperm whale analysis",
+    "text": "Sperm whale analysis\nGetting Started - Sperm Whale 3D Tracking Project",
     "crumbs": [
       "Training Material"
     ]
