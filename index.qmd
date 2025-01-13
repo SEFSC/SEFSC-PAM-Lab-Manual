@@ -23,6 +23,8 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 ### Researchers
 
+Emma Beretta, Data management
+
 Manuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies
 
 [Amanda Debich](https://www.fisheries.noaa.gov/contact/amanda-debich), Lead acoustic technician for Rice’s whale studies
@@ -78,3 +80,11 @@ The agencies we work with include:
 -   [NOAA Atlantic Oceanographic and Meteorological Laboratory](https://www.aoml.noaa.gov/people/matthieu-le-henaff/)
 -   [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/products/passive-acoustic-data)
 -   [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast)
+
+## Additional National Marine Fisheries Acoustics Lab Manuals
+
+-   [AFSC: Alaska Fisheres](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/)
+-   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
+-   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/)
+-   [SWFSC: Southwest Fisheries](https://sael-swfsc.github.io/SAEL-lab-manual/)
+-   [National PAM Network](https://nmfs-ost.github.io/PAM_National_NMFS_Network/)
