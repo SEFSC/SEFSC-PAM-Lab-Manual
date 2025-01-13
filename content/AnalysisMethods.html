@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,12 +37,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2f9c039ea7a9e575d83849e7716bb683.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-504eaef62a3362ffc665ddab0dff3f96.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-d60dc51e4780a8da6e803e03ea2fa71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-e19d0f8100c91b5b96a38b37e81d057c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -387,33 +387,21 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="seismic-airguns">Seismic Airguns</h3>
 <!-- Airguns were detected automatically using a matched filter detector on the low-frequency band data. The acoustic recording timeseries were filtered with a 10th order Butterworth bandpass filter between 25 and 200 Hz. Cross correlation was computed between 75 s of the envelope of the filtered timeseries and the envelope of a filtered example airgun explosion (0.7 s, Hann windowed) as the matched filter signal. The cross correlation was squared to ’sharpen’ peaks of airgun pulse detections. A floating threshold was calculated by taking the median cross-correlation value over the current 75 s of data to account for detecting airguns within varying noise conditions, such as ship passings. A cross-correlation threshold of 2*10^−6 above the median was set. When the correlation coefficient exceeded this threshold, the detection was sent to a phase 2 detection and classification step. Thresholds were determined based on a manual review of a subset of data. -->
 <!-- Consecutive airgun pulse detections were required to have a minimum start time difference of 2 s. A 0.03 s running average energy across the detection was computed. The start and end times of the detection were marked when the energy rose by more than 0.5 dB above the median energy across the detection. The peak-to-peak (pp) and root-mean-square (rms) received levels (RLs) were computed over the potential pulse as well as before and after the explosion. The potential airgun pulse was classified as a false detection and removed if 1) the signal dB difference of pp and rms RLs between the during and AFTER detection periods was < 0.5 dB; 2) the dB difference of pp and rms RLs between the signal and the time BEFORE the signal was < 0.5 dB; and 3) the detection duration was shorter than 0.5 s. Further, detections with a peak-to-peak amplitude of < 120 dB were removed for this analysis. -->
-<p>An analysis methods section is required and should include the following information;</p>
-<ul>
-<li>Data Prep and Archive
-<ul>
-<li>Data prep (decompressing, creating LTSAs, decimating, etc.)
-<ul>
-<li><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataPrep.html">SAEL example</a></li>
-</ul></li>
-<li>Data quality checks (QAQC scripts)
-<ul>
-<li><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataQualityCheck.html">SAEL example</a></li>
-</ul></li>
-<li>Data upload steps
-<ul>
-<li><p>If you have a internal storage include directions here on where data should be stored and in what format</p></li>
-<li><p>You can also include a data managment structure with standardized naming and storage/folder structures</p></li>
-<li><p><a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataUpload.html">SAEL example</a></p></li>
-</ul></li>
-</ul></li>
-<li>Analysis methods for each species, group, or sound source
-<ul>
-<li><p>You can break this down by baleen and toothed whales, soundscapes, etc.</p></li>
-<li><p>Each section should include detailed and reproducible methods that anybody can recreate</p></li>
-</ul></li>
-</ul>
-<p>You can also link to a separate hardware repository if needed (<a href="https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-adrift.html">SAEL example</a>)</p>
-<p><a href="https://swfsc.github.io/glider-lab-manual/content/dataproc-gliders.html">Glider Lab Manual example</a></p>
+<!-- An analysis methods section is required and should include the following information; -->
+<!-- -   Data Prep and Archive -->
+<!--     -   Data prep (decompressing, creating LTSAs, decimating, etc.) -->
+<!--         -   [SAEL example](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataPrep.html) -->
+<!--     -   Data quality checks (QAQC scripts) -->
+<!--         -   [SAEL example](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataQualityCheck.html) -->
+<!--     -   Data upload steps -->
+<!--         -   If you have a internal storage include directions here on where data should be stored and in what format -->
+<!--         -   You can also include a data managment structure with standardized naming and storage/folder structures -->
+<!--         -   [SAEL example](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/DataUpload.html) -->
+<!-- -   Analysis methods for each species, group, or sound source -->
+<!--     -   You can break this down by baleen and toothed whales, soundscapes, etc. -->
+<!--     -   Each section should include detailed and reproducible methods that anybody can recreate -->
+<!-- You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-adrift.html)) -->
+<!-- [Glider Lab Manual example](https://swfsc.github.io/glider-lab-manual/content/dataproc-gliders.html) -->
 
 
 </section>
