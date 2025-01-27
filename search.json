@@ -1,159 +1,5 @@
 [
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
-    "crumbs": [
-      "Onboarding Material"
-    ]
-  },
-  {
-    "objectID": "content/Onboarding.html#new-staff-interns-and-volunteers",
-    "href": "content/Onboarding.html#new-staff-interns-and-volunteers",
-    "title": "Onboarding",
-    "section": "",
-    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
-    "crumbs": [
-      "Onboarding Material"
-    ]
-  },
-  {
-    "objectID": "content/Safety.html",
-    "href": "content/Safety.html",
-    "title": "Safety",
-    "section": "",
-    "text": "Lithium Safety page - POC: Melissa Soldevilla\nLink to SEFSC Safety Page - POC: Melissa Soldevilla\nInclude the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
-    "crumbs": [
-      "Lab Management",
-      "Safety"
-    ]
-  },
-  {
-    "objectID": "content/TrainingMaterial.html",
-    "href": "content/TrainingMaterial.html",
-    "title": "Training Material",
-    "section": "",
-    "text": "Gulf of Mexico Low-frequency Sounds\nRice’s Whale Western GoMX Call Examples",
-    "crumbs": [
-      "Training Material"
-    ]
-  },
-  {
-    "objectID": "content/TrainingMaterial.html#gulf-of-mexico-call-types",
-    "href": "content/TrainingMaterial.html#gulf-of-mexico-call-types",
-    "title": "Training Material",
-    "section": "",
-    "text": "Gulf of Mexico Low-frequency Sounds\nRice’s Whale Western GoMX Call Examples",
-    "crumbs": [
-      "Training Material"
-    ]
-  },
-  {
-    "objectID": "content/TrainingMaterial.html#software-training-guides",
-    "href": "content/TrainingMaterial.html#software-training-guides",
-    "title": "Training Material",
-    "section": "Software Training Guides",
-    "text": "Software Training Guides\nTriton Guide",
-    "crumbs": [
-      "Training Material"
-    ]
-  },
-  {
-    "objectID": "content/TrainingMaterial.html#sperm-whale-analysis",
-    "href": "content/TrainingMaterial.html#sperm-whale-analysis",
-    "title": "Training Material",
-    "section": "Sperm whale analysis",
-    "text": "Sperm whale analysis\nGetting Started - Sperm Whale 3D Tracking Project",
-    "crumbs": [
-      "Training Material"
-    ]
-  },
-  {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
-    "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
-    "crumbs": [
-      "Software & Analysis Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#setup-guides",
-    "href": "content/FieldMethods.html#setup-guides",
-    "title": "Field Methods",
-    "section": "Setup Guides",
-    "text": "Setup Guides\nAcoustics VisSurvey Setup\nBrummel Lock Line Splicing for Soundtraps\nDepth Sensor Setup\nGarmin GPS Setup\nIshmael Setup\nMOTU Setup\nSAILDAQ Setup\nSonobuoy Setup\nSoundtrap Mooring Deployment Preparation",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#protocols",
-    "href": "content/FieldMethods.html#protocols",
-    "title": "Field Methods",
-    "section": "Protocols",
-    "text": "Protocols\nAcoustics Backup Protocols\nAcoustics Reports\nAcoustics VisSurvey Manual\nArray Deployment and Recovery\nArray Deployment and Retrieval To Do\nCTD Protocol\nDay to Day Ops\nIshmael Protocols\nPamguard Troubleshooting\nRESTORE Pamguard Protocols - Summer 2018\nSEFSC Acoustics Manual - Possible Reference for Text\nSonobuoy Deployment\nSonobuoy Stripping\nSoundtrap ATHAS Protocol\nTowed Array and Connector Care\nXBT Launches",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#manuals",
-    "href": "content/FieldMethods.html#manuals",
-    "title": "Field Methods",
-    "section": "Manuals",
-    "text": "Manuals\nSEFSC AMMAPS 2013 Array Info\nSoundTrap User Guide\nTeledyne Impulse Connector Care Instructions\nWiring Diagram NMFS CSFalmat Cable Corrected",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#troubleshooting",
-    "href": "content/FieldMethods.html#troubleshooting",
-    "title": "Field Methods",
-    "section": "Troubleshooting",
-    "text": "Troubleshooting\nTroubleshooting SB computer noise testing screenshots",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
-    "href": "content/NMFS_OpenSciDirections/add-content.html",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
     "objectID": "content/NMFS_OpenSciDirections/customizing.html",
     "href": "content/NMFS_OpenSciDirections/customizing.html",
     "title": "Customization",
@@ -215,207 +61,141 @@
     "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
-    "href": "content/NMFS_OpenSciDirections/Intro.html",
-    "title": "NOAA quarto simple with R",
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
+    "href": "content/NMFS_OpenSciDirections/add-content.html",
+    "title": "Customize",
     "section": "",
-    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
     "crumbs": [
       "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
+      "Customize"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "title": "NOAA quarto simple with R",
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
+    "title": "Customize",
     "section": "",
-    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
     "crumbs": [
       "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
+      "Customize"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml",
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
+    "title": "Customize",
+    "section": "Add your pages the project",
+    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
     "crumbs": [
       "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
+      "Customize"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "title": "NOAA quarto simple with R",
+    "objectID": "content/NMFS_OpenSciDirections/code.html",
+    "href": "content/NMFS_OpenSciDirections/code.html",
+    "title": "Rendering with Code",
     "section": "",
-    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
     "crumbs": [
       "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
+      "Rendering with Code"
     ]
   },
   {
-    "objectID": "content/AnalysisMethods.html#marine-mammal-acoustics",
-    "href": "content/AnalysisMethods.html#marine-mammal-acoustics",
-    "title": "Analysis Methods",
-    "section": "Marine Mammal Acoustics",
-    "text": "Marine Mammal Acoustics\n\nOdontocete Analyses\n\nClick Classification\n\n\nDensity Estimation\n\n\nBeaked Whale Tracking for Denisty Estimation Parameterization\n\n\n\nMysticete Whale Analyses\n\n\nRice’s Whale Automated Call Detectors\n\n\n\nLong-Moan Detector Settings\n\n\n\nDownsweep Pulse Sequence Detector Settings\n\n\n\n\nValidation of Automated Call Detections\n\n\n\n\nNorth Atlantic Right Whale Up-calls",
+    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
+    "crumbs": [
+      "NMFS Open Science Directions",
+      "Rendering with Code"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
+    "crumbs": [
+      "NMFS Open Science Directions",
+      "Rendering with Code"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#setup-guides",
+    "href": "content/FieldMethods.html#setup-guides",
+    "title": "Field Methods",
+    "section": "Setup Guides",
+    "text": "Setup Guides\nAcoustics VisSurvey Setup\nBrummel Lock Line Splicing for Soundtraps\nDepth Sensor Setup\nGarmin GPS Setup\nIshmael Setup\nMOTU Setup\nSAILDAQ Setup\nSonobuoy Setup\nSoundtrap Mooring Deployment Preparation",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#protocols",
+    "href": "content/FieldMethods.html#protocols",
+    "title": "Field Methods",
+    "section": "Protocols",
+    "text": "Protocols\nAcoustics Backup Protocols\nAcoustics Reports\nAcoustics VisSurvey Manual\nArray Deployment and Recovery\nArray Deployment and Retrieval To Do\nCTD Protocol\nDay to Day Ops\nIshmael Protocols\nPamguard Troubleshooting\nRESTORE Pamguard Protocols - Summer 2018\nSEFSC Acoustics Manual - Possible Reference for Text\nSonobuoy Deployment\nSonobuoy Stripping\nSoundtrap ATHAS Protocol\nTowed Array and Connector Care\nXBT Launches",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#manuals",
+    "href": "content/FieldMethods.html#manuals",
+    "title": "Field Methods",
+    "section": "Manuals",
+    "text": "Manuals\nSEFSC AMMAPS 2013 Array Info\nSoundTrap User Guide\nTeledyne Impulse Connector Care Instructions\nWiring Diagram NMFS CSFalmat Cable Corrected",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#troubleshooting",
+    "href": "content/FieldMethods.html#troubleshooting",
+    "title": "Field Methods",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nTroubleshooting SB computer noise testing screenshots",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/Software.html",
+    "href": "content/Software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nWavesurfer",
     "crumbs": [
       "Software & Analysis Methods",
-      "Analysis Methods"
+      "Software"
     ]
   },
   {
-    "objectID": "content/AnalysisMethods.html#ambient-and-anthropogenic-noise-analyses",
-    "href": "content/AnalysisMethods.html#ambient-and-anthropogenic-noise-analyses",
-    "title": "Analysis Methods",
-    "section": "Ambient and Anthropogenic Noise Analyses",
-    "text": "Ambient and Anthropogenic Noise Analyses\n\nAmbient Noise Levels\n\n\n\n\n\n\n\nBroadband Ships\n\n\n\n\n\n\n\n\nShip Radiated Noise Levels and Monopole Source Levels\n\n\n\n\n\n\n\n\n\n\n\nSeismic Airguns",
+    "objectID": "content/Software.html#acoustic-analysis-software",
+    "href": "content/Software.html#acoustic-analysis-software",
+    "title": "Software",
+    "section": "",
+    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nWavesurfer",
     "crumbs": [
       "Software & Analysis Methods",
-      "Analysis Methods"
+      "Software"
     ]
   },
   {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
+    "objectID": "content/LabManagement.html",
+    "href": "content/LabManagement.html",
+    "title": "Lab Management",
     "section": "",
-    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example"
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science. It serves as a document for keeping institutional knowledge by providing information on various procedures, field methods, analyses, inventories, and available resources, among other things.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
-    "href": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
-    "title": "Home",
-    "section": "",
-    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science. It serves as a document for keeping institutional knowledge by providing information on various procedures, field methods, analyses, inventories, and available resources, among other things.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#team-members",
-    "href": "index.html#team-members",
-    "title": "Home",
-    "section": "Team Members",
-    "text": "Team Members\n\nProgram Lead\nMelissa Soldevilla \n\n\nResearchers\nEmma Beretta, Data management\nManuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nLudovic Tenorio-Halle, Rice’s whale studies, propagation modeling, ambient noise\n\n\nGraduate Students\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\n\n\nVolunteers\nEmily Stens\n\n\nFormer Members\nResearcher Staff: Shannon Merkle, Jonathan Reid, Katrina Ternus\nGraduate Students: Sierra Jarriel, Itzel Perez Carballo\n\nInterns: Beyza Gul, Alexandria Tennant\nVolunteers: Miles Lubas, Vanessa Lundsten",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#partners",
-    "href": "index.html#partners",
-    "title": "Home",
-    "section": "Partners",
-    "text": "Partners\nPassive acoustic monitoring requires specialized equipment and produces a lot of data. These data require computer intensive analyses to discover all the important information about marine mammals and their acoustic habitats contained in the underwater sound recordings. The Southeast Center collaborates with many institutions within and outside NOAA to help us achieve these goals.\nThe agencies we work with include:\n\nScripps Whale Acoustics Lab\nScripps Machine Listening Lab\nUniversidad Veracruzana - Serrano Lab\nUniversidad Nacional Autónoma de Mexico - Gracia Lab\nNOAA Atlantic Oceanographic and Meteorological Laboratory\nNOAA National Centers for Environmental Information\nNOAA Northeast Fisheries Science Center",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#additional-national-marine-fisheries-acoustics-lab-manuals",
-    "href": "index.html#additional-national-marine-fisheries-acoustics-lab-manuals",
-    "title": "Home",
-    "section": "Additional National Marine Fisheries Acoustics Lab Manuals",
-    "text": "Additional National Marine Fisheries Acoustics Lab Manuals\n\nAFSC: Alaska Fisheres\nNEFSC: Northeast Fisheries\nNWFSC: Northwest Fisheries\nSWFSC: Southwest Fisheries\nNational PAM Network",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html#ncei-data-archive",
-    "href": "content/DataManagement.html#ncei-data-archive",
-    "title": "Data Management",
-    "section": "",
-    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html#obis-seamap",
-    "href": "content/DataManagement.html#obis-seamap",
-    "title": "Data Management",
-    "section": "OBIS-SEAMAP",
-    "text": "OBIS-SEAMAP\nWe will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the OBIS-SEAMAP database.",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html#pacm",
-    "href": "content/DataManagement.html#pacm",
-    "title": "Data Management",
-    "section": "PACM",
-    "text": "PACM\nThe Passive Acoustic Cetacean Map, or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.",
-    "crumbs": [
-      "Data Management"
+      "Lab Management"
     ]
   },
   {
@@ -479,68 +259,336 @@
     ]
   },
   {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory",
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
+  },
+  {
+    "objectID": "content/Hardware.html",
+    "href": "content/Hardware.html",
+    "title": "Hardware",
+    "section": "",
+    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
     "crumbs": [
-      "Lab Management"
+      "Hardware"
     ]
   },
   {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
+    "objectID": "content/Hardware.html#seafloor-moored-acoustic-recorders",
+    "href": "content/Hardware.html#seafloor-moored-acoustic-recorders",
+    "title": "Hardware",
     "section": "",
-    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nWavesurfer",
+    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#towed-hydrophone-array",
+    "href": "content/Hardware.html#towed-hydrophone-array",
+    "title": "Hardware",
+    "section": "Towed Hydrophone Array",
+    "text": "Towed Hydrophone Array\nWhile at sea conducting line-transect surveys to look for whales and dolphins (cetaceans), acousticians deploy a towed hydrophone (underwater microphone) array. The array is towed approximately 300 meters behind the ship to detect and localize the sounds produced by toothed whales and dolphins (odontocetes).\nThe array contains multiple hydrophones, each recording sounds as they arrive. The time differences in sound arrival on each hydrophone allow us to measure the sound’s direction. As the ship continues on its path, the direction to the sounds changes. This allows scientists to localize the source of whistles and echolocation clicks.\nThese data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species.\n\nA hydrophone array being towed behind the ship. This array is towed 300 m behind the ship and usually stays submerged between nine and 12 meters (30-40 feet) depth. We use a custom-built modular array capable of recording a broad range of sound frequencies. Credit: NOAA Fisheries / Amanda Debich",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#drifting-acoustic-recorders",
+    "href": "content/Hardware.html#drifting-acoustic-recorders",
+    "title": "Hardware",
+    "section": "Drifting Acoustic Recorders",
+    "text": "Drifting Acoustic Recorders\n\nSonobuoys\nDuring ship surveys, we also use expendable DIFAR (Directional Frequency Analysis and Ranging) sonobuoys to detect and record low‐frequency sounds produced by baleen whales (mysticetes). DIFAR sonobuoys contain a hydrophone and a compass in the sensor head and transmit signals from these sensors back to the ship via a VHF radio carrier. The acoustic signal ranges in frequency from 10–4,000 hertz, which is well suited for baleen whale calls that are generally below 1,000 hertz. The two compass signals contain directional information that help us determine where the sounds we hear are coming from and can be used to help us find and localize whales.\nIn the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pairs of these sonobuoys to localize the source of calls that are thought to be produced by the endangered Rice’s whale. This provides data to understand what types of calls these whales produce, how often they produce them, and in some cases, how far away we can detect the calls from them. We need this foundational information about what calls Rice’s whales produce to use autonomous moored recorders for longer term studies of their occurrence.",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#gliders",
+    "href": "content/Hardware.html#gliders",
+    "title": "Hardware",
+    "section": "Gliders",
+    "text": "Gliders\nOcean gliders are autonomous underwater vehicles designed to perform repeated dives along predefined trajectories. While at the surface, they use satellite navigation and communication to transmit collected data to shore and, if necessary, receive trajectory adjustments. These platforms are inherently quiet due to their slow movement, minimal flow noise, and limited self-noise generated during maneuvers.\nGliders collect high-resolution hydrographic profiles, with measurements such as temperature, salinity, and oxygen, depending on the sensors equipped. Additionally, they can record raw acoustic data, which is retrievable after the glider's recovery. By navigating diverse bathymetric features and marine mammal habitats, gliders enhance spatial and temporal coverage for passive acoustic monitoring (PAM) of marine mammals.\nMany marine mammal species face threats from fisheries entanglements and vessel collisions. However, the impacts of these activities on Caribbean marine mammal populations remain poorly understood due to limited assessment data in this remote region. To address this knowledge gap, scientists from the Southeast Fisheries Science Center, in partnership with the University of the Virgin Islands, deploy PAM-equipped gliders to monitor cetacean occurrence and distribution around Puerto Rico and the U.S. Virgin Islands. This baseline data is essential for enabling resource managers to plan new developments responsibly while minimizing risks to protected species.\n\nA Slocum G3 equipped with a DMON2 being deployed from a boat. This glider collects data around Puerto Rico and the U.S. Virgin Islands. Credit: University of the Virgin Islands / Doug Wilson",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#acoustic-and-dive-behavior-tags",
+    "href": "content/Hardware.html#acoustic-and-dive-behavior-tags",
+    "title": "Hardware",
+    "section": "Acoustic and Dive Behavior Tags",
+    "text": "Acoustic and Dive Behavior Tags\nWe also collect data on acoustic behavior, fine-scale movement, and dive behavior using specialized acoustic and kinematic data-logging tags, like the AcousondeTM tag, that attach to marine mammals. These tags provide us with a view of what whales and dolphins do below the surface. They allow us to measure their dive depth, movements, and behavior, and record the sounds produced near and by the tagged animal.\nThe tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.\n\nAn AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience.html",
+    "href": "content/OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example"
+  },
+  {
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science. It serves as a document for keeping institutional knowledge by providing information on various procedures, field methods, analyses, inventories, and available resources, among other things.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
+    "href": "index.html#sefsc-passive-acoustic-ecology-program-lab-manual",
+    "title": "Home",
+    "section": "",
+    "text": "Rice’s whale (Balaenoptera ricei). Credit: NOAA Fisheries (MMPA Permit #21938)\nThe Passive Acoustic Ecology Program conducts a variety of research projects that use passive acoustics to assess populations and improve our understanding of cetaceans in the Gulf of Mexico and U.S. waters of the Western Atlantic. We are part of the Marine Mammal and Turtle Division at NOAA’s Southeast Fisheries Science Center in Miami, Florida.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science. It serves as a document for keeping institutional knowledge by providing information on various procedures, field methods, analyses, inventories, and available resources, among other things.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Home",
+    "section": "Team Members",
+    "text": "Team Members\n\nProgram Lead\nMelissa Soldevilla \n\n\nResearchers\nEmma Beretta, Data management\nManuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies\nAmanda Debich, Lead acoustic technician for Rice’s whale studies\nHeloise Frouin-Mouy, Assistant scientist for LISTEN GoMex project, odontocete density estimation\nLynne Hodge, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization\nLudovic Tenorio-Halle, Rice’s whale studies, propagation modeling, ambient noise\n\n\nGraduate Students\nAshley Cook, Doctoral student at University of Miami, Rice’s whale studies\n\n\nVolunteers\nEmily Stens\n\n\nFormer Members\nResearcher Staff: Shannon Merkle, Jonathan Reid, Katrina Ternus\nGraduate Students: Sierra Jarriel, Itzel Perez Carballo\n\nInterns: Beyza Gul, Alexandria Tennant\nVolunteers: Miles Lubas, Vanessa Lundsten",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "Home",
+    "section": "Partners",
+    "text": "Partners\nPassive acoustic monitoring requires specialized equipment and produces a lot of data. These data require computer intensive analyses to discover all the important information about marine mammals and their acoustic habitats contained in the underwater sound recordings. The Southeast Center collaborates with many institutions within and outside NOAA to help us achieve these goals.\nThe agencies we work with include:\n\nScripps Whale Acoustics Lab\nScripps Machine Listening Lab\nUniversidad Veracruzana - Serrano Lab\nUniversidad Nacional Autónoma de Mexico - Gracia Lab\nNOAA Atlantic Oceanographic and Meteorological Laboratory\nNOAA National Centers for Environmental Information\nNOAA Northeast Fisheries Science Center",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#additional-national-marine-fisheries-acoustics-lab-manuals",
+    "href": "index.html#additional-national-marine-fisheries-acoustics-lab-manuals",
+    "title": "Home",
+    "section": "Additional National Marine Fisheries Acoustics Lab Manuals",
+    "text": "Additional National Marine Fisheries Acoustics Lab Manuals\n\nAFSC: Alaska Fisheres\nNEFSC: Northeast Fisheries\nNWFSC: Northwest Fisheries\nSWFSC: Southwest Fisheries\nNational PAM Network",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
+    "crumbs": [
+      "Software & Analysis Methods"
+    ]
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#ncei-data-archive",
+    "href": "content/DataManagement.html#ncei-data-archive",
+    "title": "Data Management",
+    "section": "",
+    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#obis-seamap",
+    "href": "content/DataManagement.html#obis-seamap",
+    "title": "Data Management",
+    "section": "OBIS-SEAMAP",
+    "text": "OBIS-SEAMAP\nWe will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the OBIS-SEAMAP database.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html#pacm",
+    "href": "content/DataManagement.html#pacm",
+    "title": "Data Management",
+    "section": "PACM",
+    "text": "PACM\nThe Passive Acoustic Cetacean Map, or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/Safety.html",
+    "href": "content/Safety.html",
+    "title": "Safety",
+    "section": "",
+    "text": "Lithium Safety page - POC: Melissa Soldevilla\nLink to SEFSC Safety Page - POC: Melissa Soldevilla\nInclude the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
+    "crumbs": [
+      "Lab Management",
+      "Safety"
+    ]
+  },
+  {
+    "objectID": "content/AnalysisMethods.html#marine-mammal-acoustics",
+    "href": "content/AnalysisMethods.html#marine-mammal-acoustics",
+    "title": "Analysis Methods",
+    "section": "Marine Mammal Acoustics",
+    "text": "Marine Mammal Acoustics\n\nOdontocete Analyses\n\nClick Classification\n\n\nDensity Estimation\n\n\nBeaked Whale Tracking for Denisty Estimation Parameterization\n\n\n\nMysticete Whale Analyses\n\n\nRice’s Whale Automated Call Detectors\n\n\n\nLong-Moan Detector Settings\n\n\n\nDownsweep Pulse Sequence Detector Settings\n\n\n\n\nValidation of Automated Call Detections\n\n\n\n\nNorth Atlantic Right Whale Up-calls",
     "crumbs": [
       "Software & Analysis Methods",
-      "Software"
+      "Analysis Methods"
     ]
   },
   {
-    "objectID": "content/Software.html#acoustic-analysis-software",
-    "href": "content/Software.html#acoustic-analysis-software",
-    "title": "Software",
-    "section": "",
-    "text": "Here is a list of the software used for acoustic analysis in the SEFSC Passive Acoustic Ecology Program:\nIshmael\nMatlab\nPAMGuard\nR\nRaven\nRStudio\nTriton\nWavesurfer",
+    "objectID": "content/AnalysisMethods.html#ambient-and-anthropogenic-noise-analyses",
+    "href": "content/AnalysisMethods.html#ambient-and-anthropogenic-noise-analyses",
+    "title": "Analysis Methods",
+    "section": "Ambient and Anthropogenic Noise Analyses",
+    "text": "Ambient and Anthropogenic Noise Analyses\n\nAmbient Noise Levels\n\n\n\n\n\n\n\nBroadband Ships\n\n\n\n\n\n\n\n\nShip Radiated Noise Levels and Monopole Source Levels\n\n\n\n\n\n\n\n\n\n\n\nSeismic Airguns",
     "crumbs": [
       "Software & Analysis Methods",
-      "Software"
+      "Analysis Methods"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/code.html",
-    "href": "content/NMFS_OpenSciDirections/code.html",
-    "title": "Rendering with Code",
+    "objectID": "content/TrainingMaterial.html",
+    "href": "content/TrainingMaterial.html",
+    "title": "Training Material",
     "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
+    "text": "Gulf of Mexico Low-frequency Sounds\nRice’s Whale Western GoMX Call Examples",
     "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering with Code"
+      "Training Material"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
+    "objectID": "content/TrainingMaterial.html#gulf-of-mexico-call-types",
+    "href": "content/TrainingMaterial.html#gulf-of-mexico-call-types",
+    "title": "Training Material",
+    "section": "",
+    "text": "Gulf of Mexico Low-frequency Sounds\nRice’s Whale Western GoMX Call Examples",
     "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering with Code"
+      "Training Material"
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
+    "objectID": "content/TrainingMaterial.html#software-training-guides",
+    "href": "content/TrainingMaterial.html#software-training-guides",
+    "title": "Training Material",
+    "section": "Software Training Guides",
+    "text": "Software Training Guides\nTriton Guide",
+    "crumbs": [
+      "Training Material"
+    ]
+  },
+  {
+    "objectID": "content/TrainingMaterial.html#sperm-whale-analysis",
+    "href": "content/TrainingMaterial.html#sperm-whale-analysis",
+    "title": "Training Material",
+    "section": "Sperm whale analysis",
+    "text": "Sperm whale analysis\nGetting Started - Sperm Whale 3D Tracking Project",
+    "crumbs": [
+      "Training Material"
+    ]
+  },
+  {
+    "objectID": "content/Offboarding.html",
+    "href": "content/Offboarding.html",
+    "title": "Offboarding",
+    "section": "",
+    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
+  },
+  {
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "crumbs": [
+      "Onboarding Material"
+    ]
+  },
+  {
+    "objectID": "content/Onboarding.html#new-staff-interns-and-volunteers",
+    "href": "content/Onboarding.html#new-staff-interns-and-volunteers",
+    "title": "Onboarding",
+    "section": "",
+    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "crumbs": [
+      "Onboarding Material"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
     "crumbs": [
       "NMFS Open Science Directions",
-      "Rendering with Code"
+      "Acknowledgments"
     ]
   },
   {
@@ -621,95 +669,47 @@
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
+    "href": "content/NMFS_OpenSciDirections/Intro.html",
+    "title": "NOAA quarto simple with R",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
+    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
     "crumbs": [
       "NMFS Open Science Directions",
-      "Acknowledgments"
+      "NOAA quarto simple with R"
     ]
   },
   {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "title": "NOAA quarto simple with R",
     "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
+    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website",
+    "crumbs": [
+      "NMFS Open Science Directions",
+      "NOAA quarto simple with R"
+    ]
   },
   {
-    "objectID": "content/Hardware.html",
-    "href": "content/Hardware.html",
-    "title": "Hardware",
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "title": "NOAA quarto simple with R",
     "section": "",
-    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml",
     "crumbs": [
-      "Hardware"
+      "NMFS Open Science Directions",
+      "NOAA quarto simple with R"
     ]
   },
   {
-    "objectID": "content/Hardware.html#seafloor-moored-acoustic-recorders",
-    "href": "content/Hardware.html#seafloor-moored-acoustic-recorders",
-    "title": "Hardware",
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "title": "NOAA quarto simple with R",
     "section": "",
-    "text": "While ship surveys allow us to study marine mammals over a broad area during a period of a few months, sometimes we want to study their occurrence at specific locations over extended periods of time. We do this by deploying autonomous moored recording instruments that remain on the seafloor for predetermined time periods.\nAutonomous recorders include HARPs (High-frequency Acoustic Recording Packages), MARUs (Marine Acoustic Recording Units), and SoundTrapsTM. They are deployed in areas of interest and are capable of recording sounds for up to 18 months at a time. The amount of time that an instrument can record over depends on numerous factors, including the sampling frequency and duty cycle, and how much data storage and battery capacity the instrument has. When it is time to change the battery and data storage disks, we head out to sea to recover the instruments and collect the data recordings. Then we redeploy them to continue the autonomous sampling.\nThese moored recorders provide data on the spatial distribution of whales and dolphins over time. They are useful for understanding seasonal and longer term occurrence and movement patterns. In some cases, they can be used to estimate the density of whales and dolphins and to inform assessments of abundance and population trends.",
+    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
     "crumbs": [
-      "Hardware"
+      "NMFS Open Science Directions",
+      "NOAA quarto simple with R"
     ]
-  },
-  {
-    "objectID": "content/Hardware.html#towed-hydrophone-array",
-    "href": "content/Hardware.html#towed-hydrophone-array",
-    "title": "Hardware",
-    "section": "Towed Hydrophone Array",
-    "text": "Towed Hydrophone Array\nWhile at sea conducting line-transect surveys to look for whales and dolphins (cetaceans), acousticians deploy a towed hydrophone (underwater microphone) array. The array is towed approximately 300 meters behind the ship to detect and localize the sounds produced by toothed whales and dolphins (odontocetes).\nThe array contains multiple hydrophones, each recording sounds as they arrive. The time differences in sound arrival on each hydrophone allow us to measure the sound’s direction. As the ship continues on its path, the direction to the sounds changes. This allows scientists to localize the source of whistles and echolocation clicks.\nThese data can be used to estimate the spatial distribution, density, and abundance of toothed whale and dolphin species. They offer complementary data to visual observations for use in marine mammal stock assessments. Additionally, the associated visual and acoustic detections can help us learn what call types are produced by each species.\n\nA hydrophone array being towed behind the ship. This array is towed 300 m behind the ship and usually stays submerged between nine and 12 meters (30-40 feet) depth. We use a custom-built modular array capable of recording a broad range of sound frequencies. Credit: NOAA Fisheries / Amanda Debich",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#drifting-acoustic-recorders",
-    "href": "content/Hardware.html#drifting-acoustic-recorders",
-    "title": "Hardware",
-    "section": "Drifting Acoustic Recorders",
-    "text": "Drifting Acoustic Recorders\n\nSonobuoys\nDuring ship surveys, we also use expendable DIFAR (Directional Frequency Analysis and Ranging) sonobuoys to detect and record low‐frequency sounds produced by baleen whales (mysticetes). DIFAR sonobuoys contain a hydrophone and a compass in the sensor head and transmit signals from these sensors back to the ship via a VHF radio carrier. The acoustic signal ranges in frequency from 10–4,000 hertz, which is well suited for baleen whale calls that are generally below 1,000 hertz. The two compass signals contain directional information that help us determine where the sounds we hear are coming from and can be used to help us find and localize whales.\nIn the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pairs of these sonobuoys to localize the source of calls that are thought to be produced by the endangered Rice’s whale. This provides data to understand what types of calls these whales produce, how often they produce them, and in some cases, how far away we can detect the calls from them. We need this foundational information about what calls Rice’s whales produce to use autonomous moored recorders for longer term studies of their occurrence.",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#gliders",
-    "href": "content/Hardware.html#gliders",
-    "title": "Hardware",
-    "section": "Gliders",
-    "text": "Gliders",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#acoustic-and-dive-behavior-tags",
-    "href": "content/Hardware.html#acoustic-and-dive-behavior-tags",
-    "title": "Hardware",
-    "section": "Acoustic and Dive Behavior Tags",
-    "text": "Acoustic and Dive Behavior Tags\nWe also collect data on acoustic behavior, fine-scale movement, and dive behavior using specialized acoustic and kinematic data-logging tags, like the AcousondeTM tag, that attach to marine mammals. These tags provide us with a view of what whales and dolphins do below the surface. They allow us to measure their dive depth, movements, and behavior, and record the sounds produced near and by the tagged animal.\nThe tags attach to the whale’s back via suction cups and remain on the whale for a few hours to a few days. Once they detach from the whales, we use satellite and VHF transmitters to locate and recover them and access the recorded data. These dive data, combined with acoustic recordings from the tag, give us insight into the acoustic behavior of these animals. They help us learn about the animals’ vocal cue rates and how the calls they produce relate to their behavior underwater. This helps us to interpret the data we collect with other passive acoustic tools.\n\nAn AcousondeTM tag, attached to a whale via suction cups, provides acoustic and kinematic data to learn about whale calling and dive behavior. Credit: NOAA Fisheries (MMPA Permit #21938)",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
-    "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
-  },
-  {
-    "objectID": "content/Offboarding.html",
-    "href": "content/Offboarding.html",
-    "title": "Offboarding",
-    "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
   }
 ]
