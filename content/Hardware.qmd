@@ -37,6 +37,20 @@ In the Gulf of Mexico, Southeast Fisheries Science Center scientists deploy pair
 
 ## Gliders
 
+Ocean gliders are autonomous underwater vehicles designed to perform repeated dives along
+predefined trajectories. While at the surface, they use satellite navigation and communication to transmit collected data to shore and, if necessary, receive trajectory adjustments. These platforms are inherently quiet due to their slow movement, minimal flow noise, and limited self-noise generated during maneuvers.
+
+Gliders collect high-resolution hydrographic profiles, with measurements such as temperature, salinity, and oxygen, depending on the sensors equipped. Additionally, they can record raw acoustic data, which is retrievable after the glider&#39;s recovery. By navigating diverse bathymetric features and marine mammal habitats, gliders enhance spatial and temporal coverage for passive acoustic monitoring (PAM) of marine mammals.
+
+Many marine mammal species face threats from fisheries entanglements and vessel collisions.
+However, the impacts of these activities on Caribbean marine mammal populations remain
+poorly understood due to limited assessment data in this remote region. To address this
+knowledge gap, scientists from the Southeast Fisheries Science Center, in partnership with the University of the Virgin Islands, deploy PAM-equipped gliders to monitor cetacean occurrence and distribution around Puerto Rico and the U.S. Virgin Islands. This baseline data is essential for enabling resource managers to plan new developments responsibly while minimizing risks to protected species.
+
+![](images/Glider_UVI.png)
+
+*A Slocum G3 equipped with a DMON2 being deployed from a boat. This glider collects data
+around Puerto Rico and the U.S. Virgin Islands. Credit: University of the Virgin Islands / Doug Wilson*
 
 ## Acoustic and Dive Behavior Tags
 
