@@ -25,7 +25,7 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 Emma Beretta, Data management
 
-Manuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies
+<!-- Manuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies -->
 
 [Amanda Debich](https://www.fisheries.noaa.gov/contact/amanda-debich), Lead acoustic technician for Rice’s whale studies
 
@@ -33,11 +33,21 @@ Manuel (Manolo) Castellote, Lead for North Atlantic Right Whale studies
 
 [Lynne Hodge](https://www.fisheries.noaa.gov/contact/lynne-hodge-phd), Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization
 
+Shannon Merkle, North Atlantic Right Whale acoustic analyses
+
+Nicole Pegg, North Atlantic Right Whale acoustic analyses
+
 [Ludovic Tenorio-Halle](https://www.fisheries.noaa.gov/contact/ludovic-tenorio-halle-phd), Rice’s whale studies, propagation modeling, ambient noise
 
 ### Graduate Students
 
 [Ashley Cook](https://www.fisheries.noaa.gov/contact/ashley-cook), Doctoral student at University of Miami, Rice’s whale studies
+
+### Interns
+
+Sienna Aguiar
+
+Lia Caldwell
 
 ### Volunteers
 
