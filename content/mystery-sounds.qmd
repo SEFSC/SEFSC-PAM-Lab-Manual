@@ -5,21 +5,21 @@ format: html
 
 ## Share a Mystery Sound
 
-Did you find a mysterious sound that you can't quite match to own of [our known calls](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-SpeciesAndCallTypes.html) (link to species/call page)? Ask the broader community on the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/)!
+Did you find a mysterious sound that you can't quite match to own of [our known calls](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/SpeciesAndCallTypes.html) (link to species/call page)? Ask the broader community on the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/){target="_blank"}!
 
 Follow the steps below to set up an account, share your sound, and post your question
 
 ### Login or Create Stack Exchange Account
 
-Skip to ['Post a Question'](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-mystery-sounds.html#post-a-question) if you already have an account
+Skip to ['Post a Question'](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Data-mystery-sounds.qmd#post-a-question) if you already have an account
 
-1.  Go to the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/) and click the 'Log in' or 'Sign up' button in the upper right corner
+1.  Go to the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/){target="_blank"} and click the 'Log in' or 'Sign up' button in the upper right corner
 2.  You can sign up with Google or select your own email and password
 3.  Follow the directions to complete you profile
 
 ### Post a Question
 
-1.  Go to the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/) and click the blue 'Ask Question' button
+1.  Go to the [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/){target="_blank"} and click the blue 'Ask Question' button
 
 2.  Give a brief but descriptive title, make sure to include some basic information about the sound (frequency range, location, etc)
 
@@ -41,4 +41,4 @@ Skip to ['Post a Question'](https://sael-swfsc.github.io/SAEL-lab-manual/content
 
 ## Other Mystery Sounds
 
-Check out the other mystery sounds people have posted on the [Stack Exchange here](https://bioacoustics.stackexchange.com/questions/tagged/mystery-sound)
+Check out the other mystery sounds people have posted on the [Stack Exchange here](https://bioacoustics.stackexchange.com/questions/tagged/mystery-sound){target="_blank"}

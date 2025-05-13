@@ -10,17 +10,17 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 
 Ishmael
 
-[Matlab](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
+[Matlab](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html){target="_blank"}
 
-[PAMGuard](https://www.pamguard.org/)
+[PAMGuard](https://www.pamguard.org/){target="_blank"}
 
-[R](https://www.r-project.org/)
+[R](https://www.r-project.org/){target="_blank"}
 
-[Raven](https://www.ravensoundsoftware.com/software/raven-pro/)
+[Raven](https://www.ravensoundsoftware.com/software/raven-pro/){target="_blank"}
 
-[RStudio](https://posit.co/download/rstudio-desktop/)
+[RStudio](https://posit.co/download/rstudio-desktop/){target="_blank"}
 
-[Triton](https://github.com/MarineBioAcousticsRC/Triton)
+[Triton](https://github.com/MarineBioAcousticsRC/Triton){target="_blank"}
 
 Wavesurfer
 

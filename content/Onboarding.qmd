@@ -5,9 +5,9 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 
 ## New Staff, Interns, and Volunteers
 
-[Onboarding Material](https://sites.google.com/noaa.gov/nmfs-sefsc-mmtd/administrative-support/onboarding-new-employeesinterns?pli=1)
+[Onboarding Material](https://sites.google.com/noaa.gov/nmfs-sefsc-mmtd/administrative-support/onboarding-new-employeesinterns?pli=1){target="_blank"}
 
-[Required Training](https://sites.google.com/noaa.gov/nmfs-sefsc-mmtd/administrative-support/training)
+[Required Training](https://sites.google.com/noaa.gov/nmfs-sefsc-mmtd/administrative-support/training){target="_blank"}
 
 
 <!-- ### Sperm whale analysis -->
@@ -16,6 +16,6 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 <!-- (https://docs.google.com/document/d/1dZIGURhCEpHqiqKNrRGJXT7Fx7sGwGP6/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true) -->
 
 
-This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.
+<!-- This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc. -->
 
-[Faylab example](https://thefaylab.github.io/lab-manual/04-onboarding.html)
+<!-- [Faylab example](https://thefaylab.github.io/lab-manual/04-onboarding.html){target="_blank"} -->

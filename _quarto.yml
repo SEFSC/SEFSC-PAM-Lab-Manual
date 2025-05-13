@@ -50,10 +50,10 @@ website:
             text: Data Archive
           - href: content/SpeciesAndCallTypes.qmd
             text: Species Call Types
-          - href: content/Data-mystery-sounds.qmd 
+          - href: content/mystery-sounds.qmd 
             text: Mystery Sounds
-      - href: content/DataManagement.qmd
-        text: Data Management
+      # - href: content/DataManagement.qmd
+      #   text: Data Management
       - href: content/Hardware.qmd
         text: Hardware
       # - section: content/SoftwareAnalysis.qmd

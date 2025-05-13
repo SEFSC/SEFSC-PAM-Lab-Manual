@@ -5,17 +5,17 @@ subtitle: "SEFSC Passive Acoustic Ecology Program"
 
 ## NCEI Data Archive
 
-All [Gulf of Mexico Rice's whale acoustic data](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/passive_acoustic//iso/xml/SEFSC_GOM_Moored_Raw_Data.xml&view=getDataView) and all [LISTEN GoMex raw data (xwavs)](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/passive_acoustic//iso/xml/LISTEN_GoMex_Raw_Audio.xml&view=getDataView) will be or are publicly accessible through [NCEI Passive Acoustics Data Archive](https://www.ncei.noaa.gov/products/passive-acoustic-data).
+All [Gulf of Mexico Rice's whale acoustic data](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/passive_acoustic//iso/xml/SEFSC_GOM_Moored_Raw_Data.xml&view=getDataView){target="_blank"} and all [LISTEN GoMex raw data (xwavs)](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/passive_acoustic//iso/xml/LISTEN_GoMex_Raw_Audio.xml&view=getDataView){target="_blank"} will be or are publicly accessible through [NCEI Passive Acoustics Data Archive](https://www.ncei.noaa.gov/products/passive-acoustic-data){target="_blank"}.
 
 
 ## OBIS-SEAMAP
 
-We will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the [OBIS-SEAMAP](https://seamap.env.duke.edu/) database.
+We will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the [OBIS-SEAMAP](https://seamap.env.duke.edu/){target="_blank"} database.
 
 
 ## PACM
 
-The [Passive Acoustic Cetacean Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/), or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.
+The [Passive Acoustic Cetacean Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/){target="_blank"}, or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.
 
 
 <!-- ## Tethys -->
