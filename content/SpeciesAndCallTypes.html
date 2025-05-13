@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Field Methods – NOAA quarto simple</title>
+<title>Species and Call Types – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/DataArchive.html" rel="next">
-<link href="../content/Inventory.html" rel="prev">
+<link href="../content/Data-mystery-sounds.qmd" rel="next">
+<link href="../content/DataArchive.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -248,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/FieldMethods.html">Field Methods</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/DataArchive.html">Data Management</a></li><li class="breadcrumb-item"><a href="../content/SpeciesAndCallTypes.html">Species Call Types</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -309,19 +309,19 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/FieldMethods.html" class="sidebar-item-text sidebar-link active">
+  <a href="../content/FieldMethods.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Field Methods</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Data Management</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../content/DataArchive.html" class="sidebar-item-text sidebar-link">
@@ -330,7 +330,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/SpeciesAndCallTypes.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/SpeciesAndCallTypes.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Species Call Types</span></a>
   </div>
 </li>
@@ -464,21 +464,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#checklists" id="toc-checklists" class="nav-link active" data-scroll-target="#checklists">Checklists</a></li>
-  <li><a href="#setup-guides" id="toc-setup-guides" class="nav-link" data-scroll-target="#setup-guides">Setup Guides</a></li>
-  <li><a href="#protocols" id="toc-protocols" class="nav-link" data-scroll-target="#protocols">Protocols</a></li>
-  <li><a href="#manuals" id="toc-manuals" class="nav-link" data-scroll-target="#manuals">Manuals</a></li>
-  <li><a href="#troubleshooting" id="toc-troubleshooting" class="nav-link" data-scroll-target="#troubleshooting">Troubleshooting</a></li>
+  <li><a href="#species" id="toc-species" class="nav-link active" data-scroll-target="#species">Species</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/edit/main/content/FieldMethods.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/blob/main/content/FieldMethods.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/edit/main/content/SpeciesAndCallTypes.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/blob/main/content/SpeciesAndCallTypes.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/DataArchive.html">Data Management</a></li><li class="breadcrumb-item"><a href="../content/SpeciesAndCallTypes.html">Species Call Types</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Field Methods</h1>
+<h1 class="title">Species and Call Types</h1>
 <p class="subtitle lead">SEFSC Passive Acoustic Ecology Program</p>
 </div>
 
@@ -496,53 +492,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="checklists" class="level2">
-<h2 class="anchored" data-anchor-id="checklists">Checklists</h2>
-</section>
-<section id="setup-guides" class="level2">
-<h2 class="anchored" data-anchor-id="setup-guides">Setup Guides</h2>
-<p>Acoustics VisSurvey Setup</p>
-<p>Brummel Lock Line Splicing for Soundtraps</p>
-<p>Depth Sensor Setup</p>
-<p>Garmin GPS Setup</p>
-<p>Ishmael Setup</p>
-<p>MOTU Setup</p>
-<p>SAILDAQ Setup</p>
-<p>Sonobuoy Setup</p>
-<p><a href="">Soundtrap Mooring Deployment Preparation</a> <!-- (https://docs.google.com/document/d/1_8XXEVWuo_R67LYu3DJqrmeIjS2swaxR/edit?usp=drive_link&ouid=108853723995482129268&rtpof=true&sd=true) --></p>
-</section>
-<section id="protocols" class="level2">
-<h2 class="anchored" data-anchor-id="protocols">Protocols</h2>
-<p>Acoustics Backup Protocols</p>
-<p>Acoustics Reports</p>
-<p>Acoustics VisSurvey Manual</p>
-<p>Array Deployment and Recovery</p>
-<p>Array Deployment and Retrieval To Do</p>
-<p>CTD Protocol</p>
-<p>Day to Day Ops</p>
-<p>Ishmael Protocols</p>
-<p>Pamguard Troubleshooting</p>
-<p>RESTORE Pamguard Protocols - Summer 2018</p>
-<p>SEFSC Acoustics Manual - Possible Reference for Text</p>
-<p>Sonobuoy Deployment</p>
-<p>Sonobuoy Stripping</p>
-<p>Soundtrap ATHAS Protocol</p>
-<p>Towed Array and Connector Care</p>
-<p>XBT Launches</p>
-</section>
-<section id="manuals" class="level2">
-<h2 class="anchored" data-anchor-id="manuals">Manuals</h2>
-<p>SEFSC AMMAPS 2013 Array Info</p>
-<p>SoundTrap User Guide</p>
-<p>Teledyne Impulse Connector Care Instructions</p>
-<p>Wiring Diagram NMFS CSFalmat Cable Corrected</p>
-</section>
-<section id="troubleshooting" class="level2">
-<h2 class="anchored" data-anchor-id="troubleshooting">Troubleshooting</h2>
-<p>Troubleshooting SB computer noise testing screenshots</p>
-<!-- A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc. -->
-<!-- You can make this a section with subpages or link directly to a separate repository that includes more detailed methods. -->
-<!-- [ADRIFT example](https://sael-swfsc.github.io/adrift-field-methods/) -->
+<section id="species" class="level2">
+<h2 class="anchored" data-anchor-id="species">Species</h2>
+<p>Under Construction</p>
 
 
 </section>
@@ -962,13 +914,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/Inventory.html" class="pagination-link" aria-label="Inventory">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Inventory</span>
+      <a href="../content/DataArchive.html" class="pagination-link" aria-label="Data Archive">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Data Archive</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/DataArchive.html" class="pagination-link" aria-label="Data Archive">
-        <span class="nav-page-text">Data Archive</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/Data-mystery-sounds.qmd" class="pagination-link" aria-label="Mystery Sounds">
+        <span class="nav-page-text">Mystery Sounds</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -980,7 +932,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/edit/main/content/FieldMethods.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/blob/main/content/FieldMethods.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/edit/main/content/SpeciesAndCallTypes.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/blob/main/content/SpeciesAndCallTypes.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SEFSC/SEFSC-PAM-Lab-Manual/tree/main/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
