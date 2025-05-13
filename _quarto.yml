@@ -33,7 +33,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: content/LabManagement.qmd
+      # - section: content/LabManagement.qmd
+      - section: "Lab Management"
         contents: 
           - href: content/Safety.qmd
             text: Safety
@@ -43,12 +44,21 @@ website:
           #   text: Hardware
       - href: content/FieldMethods.qmd
         text: "Field Methods"
+      - section: "Data Management"
+        contents:
+          - href: content/DataArchive.qmd
+            text: Data Archive
+          - href: content/SpeciesAndCallTypes.qmd
+            text: Species Call Types
+          - href: content/Data-mystery-sounds.qmd 
+            text: Mystery Sounds
       - href: content/DataManagement.qmd
         text: Data Management
       - href: content/Hardware.qmd
         text: Hardware
-      - section: content/SoftwareAnalysis.qmd
+      # - section: content/SoftwareAnalysis.qmd
 #        text: "Software & Analysis"
+      - section: "Software and Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
