@@ -385,7 +385,7 @@
     "href": "content/Onboarding.html",
     "title": "Onboarding",
     "section": "",
-    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "text": "Onboarding Material\nRequired Training",
     "crumbs": [
       "Onboarding Material"
     ]
@@ -395,7 +395,7 @@
     "href": "content/Onboarding.html#new-staff-interns-and-volunteers",
     "title": "Onboarding",
     "section": "",
-    "text": "Onboarding Material\nRequired Training\n\n\n\nThis page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "text": "Onboarding Material\nRequired Training",
     "crumbs": [
       "Onboarding Material"
     ]
@@ -423,40 +423,28 @@
     "href": "content/DataManagement.html",
     "title": "Data Management",
     "section": "",
-    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
-    "crumbs": [
-      "Data Management"
-    ]
+    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive."
   },
   {
     "objectID": "content/DataManagement.html#ncei-data-archive",
     "href": "content/DataManagement.html#ncei-data-archive",
     "title": "Data Management",
     "section": "",
-    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive.",
-    "crumbs": [
-      "Data Management"
-    ]
+    "text": "All Gulf of Mexico Rice’s whale acoustic data and all LISTEN GoMex raw data (xwavs) will be or are publicly accessible through NCEI Passive Acoustics Data Archive."
   },
   {
     "objectID": "content/DataManagement.html#obis-seamap",
     "href": "content/DataManagement.html#obis-seamap",
     "title": "Data Management",
     "section": "OBIS-SEAMAP",
-    "text": "OBIS-SEAMAP\nWe will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the OBIS-SEAMAP database.",
-    "crumbs": [
-      "Data Management"
-    ]
+    "text": "OBIS-SEAMAP\nWe will be archiving the 2020-2023 LISTEN GoMex marine mammal detection data in the OBIS-SEAMAP database."
   },
   {
     "objectID": "content/DataManagement.html#pacm",
     "href": "content/DataManagement.html#pacm",
     "title": "Data Management",
     "section": "PACM",
-    "text": "PACM\nThe Passive Acoustic Cetacean Map, or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM.",
-    "crumbs": [
-      "Data Management"
-    ]
+    "text": "PACM\nThe Passive Acoustic Cetacean Map, or PACM, is a visual representation of acoustic detections of species. The 2020-2023 LISTEN GoMex marine mammal detection data are archived and available to view on the PACM."
   },
   {
     "objectID": "content/OpenScience.html",
@@ -470,7 +458,7 @@
     "href": "content/Reporting.html",
     "title": "Reporting",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "text": "This is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
     "crumbs": [
       "Reporting"
     ]
@@ -480,7 +468,7 @@
     "href": "content/Reporting.html#templates",
     "title": "Reporting",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "text": "This is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
     "crumbs": [
       "Reporting"
     ]
@@ -540,21 +528,33 @@
     "href": "content/mystery-sounds.html",
     "title": "Mystery Sounds",
     "section": "",
-    "text": "Did you find a mysterious sound that you can’t quite match to own of our known calls (link to species/call page)? Ask the broader community on the Bioacoustics Stack Exchange!\nFollow the steps below to set up an account, share your sound, and post your question\n\n\nSkip to ‘Post a Question’ if you already have an account\n\nGo to the Bioacoustics Stack Exchange and click the ‘Log in’ or ‘Sign up’ button in the upper right corner\nYou can sign up with Google or select your own email and password\nFollow the directions to complete you profile\n\n\n\n\n\nGo to the Bioacoustics Stack Exchange and click the blue ‘Ask Question’ button\nGive a brief but descriptive title, make sure to include some basic information about the sound (frequency range, location, etc)\n\nExample title: “Mysterious pulsed sound from seafloor hydrophone off Kamchatka in spring 2022”\n\nIn the body of the question, give an in depth description of the sound and include the location and time of year. Also include information about the recording platform, hydrophone, and any other information to help people help you\n\nExample description: “This sound has been recorded in early to late winter (January/February) on the shelf (25 m depth) off the US state of Georgia in the Western North Atlantic. The data was from a moored Soundtrap 600 with an HTI-96 hydrophone, recording at 288 kHz. There appears to be stacked harmonics that are frequency modulated. Audibly, they sound like they may originate from a marine mammal in my opinion.”\n\nInclude at least one image of the spectrogram of the sound. You can also include images of other examples of the sound or the waveform.\nAdd the tags ‘mystery-sound’, ‘species-identification’, and any others you think are relevant\nYou can also upload a clip of your sound to Soundcloud (or somewhere similar) and add a link to the question description\nPost your question! Don’t forget to check back and edit your question in case someone needs more info\nIf someone give you an answer, then click the checkmark on the left side of the post to select that as the right answer"
+    "text": "Did you find a mysterious sound that you can’t quite match to own of our known calls (link to species/call page)? Ask the broader community on the Bioacoustics Stack Exchange!\nFollow the steps below to set up an account, share your sound, and post your question\n\n\nSkip to ‘Post a Question’ if you already have an account\n\nGo to the Bioacoustics Stack Exchange and click the ‘Log in’ or ‘Sign up’ button in the upper right corner\nYou can sign up with Google or select your own email and password\nFollow the directions to complete you profile\n\n\n\n\n\nGo to the Bioacoustics Stack Exchange and click the blue ‘Ask Question’ button\nGive a brief but descriptive title, make sure to include some basic information about the sound (frequency range, location, etc)\n\nExample title: “Mysterious pulsed sound from seafloor hydrophone off Kamchatka in spring 2022”\n\nIn the body of the question, give an in depth description of the sound and include the location and time of year. Also include information about the recording platform, hydrophone, and any other information to help people help you\n\nExample description: “This sound has been recorded in early to late winter (January/February) on the shelf (25 m depth) off the US state of Georgia in the Western North Atlantic. The data was from a moored Soundtrap 600 with an HTI-96 hydrophone, recording at 288 kHz. There appears to be stacked harmonics that are frequency modulated. Audibly, they sound like they may originate from a marine mammal in my opinion.”\n\nInclude at least one image of the spectrogram of the sound. You can also include images of other examples of the sound or the waveform.\nAdd the tags ‘mystery-sound’, ‘species-identification’, and any others you think are relevant\nYou can also upload a clip of your sound to Soundcloud (or somewhere similar) and add a link to the question description\nPost your question! Don’t forget to check back and edit your question in case someone needs more info\nIf someone give you an answer, then click the checkmark on the left side of the post to select that as the right answer",
+    "crumbs": [
+      "Data Management",
+      "Mystery Sounds"
+    ]
   },
   {
     "objectID": "content/mystery-sounds.html#share-a-mystery-sound",
     "href": "content/mystery-sounds.html#share-a-mystery-sound",
     "title": "Mystery Sounds",
     "section": "",
-    "text": "Did you find a mysterious sound that you can’t quite match to own of our known calls (link to species/call page)? Ask the broader community on the Bioacoustics Stack Exchange!\nFollow the steps below to set up an account, share your sound, and post your question\n\n\nSkip to ‘Post a Question’ if you already have an account\n\nGo to the Bioacoustics Stack Exchange and click the ‘Log in’ or ‘Sign up’ button in the upper right corner\nYou can sign up with Google or select your own email and password\nFollow the directions to complete you profile\n\n\n\n\n\nGo to the Bioacoustics Stack Exchange and click the blue ‘Ask Question’ button\nGive a brief but descriptive title, make sure to include some basic information about the sound (frequency range, location, etc)\n\nExample title: “Mysterious pulsed sound from seafloor hydrophone off Kamchatka in spring 2022”\n\nIn the body of the question, give an in depth description of the sound and include the location and time of year. Also include information about the recording platform, hydrophone, and any other information to help people help you\n\nExample description: “This sound has been recorded in early to late winter (January/February) on the shelf (25 m depth) off the US state of Georgia in the Western North Atlantic. The data was from a moored Soundtrap 600 with an HTI-96 hydrophone, recording at 288 kHz. There appears to be stacked harmonics that are frequency modulated. Audibly, they sound like they may originate from a marine mammal in my opinion.”\n\nInclude at least one image of the spectrogram of the sound. You can also include images of other examples of the sound or the waveform.\nAdd the tags ‘mystery-sound’, ‘species-identification’, and any others you think are relevant\nYou can also upload a clip of your sound to Soundcloud (or somewhere similar) and add a link to the question description\nPost your question! Don’t forget to check back and edit your question in case someone needs more info\nIf someone give you an answer, then click the checkmark on the left side of the post to select that as the right answer"
+    "text": "Did you find a mysterious sound that you can’t quite match to own of our known calls (link to species/call page)? Ask the broader community on the Bioacoustics Stack Exchange!\nFollow the steps below to set up an account, share your sound, and post your question\n\n\nSkip to ‘Post a Question’ if you already have an account\n\nGo to the Bioacoustics Stack Exchange and click the ‘Log in’ or ‘Sign up’ button in the upper right corner\nYou can sign up with Google or select your own email and password\nFollow the directions to complete you profile\n\n\n\n\n\nGo to the Bioacoustics Stack Exchange and click the blue ‘Ask Question’ button\nGive a brief but descriptive title, make sure to include some basic information about the sound (frequency range, location, etc)\n\nExample title: “Mysterious pulsed sound from seafloor hydrophone off Kamchatka in spring 2022”\n\nIn the body of the question, give an in depth description of the sound and include the location and time of year. Also include information about the recording platform, hydrophone, and any other information to help people help you\n\nExample description: “This sound has been recorded in early to late winter (January/February) on the shelf (25 m depth) off the US state of Georgia in the Western North Atlantic. The data was from a moored Soundtrap 600 with an HTI-96 hydrophone, recording at 288 kHz. There appears to be stacked harmonics that are frequency modulated. Audibly, they sound like they may originate from a marine mammal in my opinion.”\n\nInclude at least one image of the spectrogram of the sound. You can also include images of other examples of the sound or the waveform.\nAdd the tags ‘mystery-sound’, ‘species-identification’, and any others you think are relevant\nYou can also upload a clip of your sound to Soundcloud (or somewhere similar) and add a link to the question description\nPost your question! Don’t forget to check back and edit your question in case someone needs more info\nIf someone give you an answer, then click the checkmark on the left side of the post to select that as the right answer",
+    "crumbs": [
+      "Data Management",
+      "Mystery Sounds"
+    ]
   },
   {
     "objectID": "content/mystery-sounds.html#other-mystery-sounds",
     "href": "content/mystery-sounds.html#other-mystery-sounds",
     "title": "Mystery Sounds",
     "section": "Other Mystery Sounds",
-    "text": "Other Mystery Sounds\nCheck out the other mystery sounds people have posted on the Stack Exchange here"
+    "text": "Other Mystery Sounds\nCheck out the other mystery sounds people have posted on the Stack Exchange here",
+    "crumbs": [
+      "Data Management",
+      "Mystery Sounds"
+    ]
   },
   {
     "objectID": "content/Offboarding.html",
