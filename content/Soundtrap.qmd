@@ -1,0 +1,55 @@
+---
+title: Soundtrap
+subtitle: "SEFSC Passive Acoustic Ecology Program"
+---
+
+Soundtrap [ST600STD](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/)
+
+**Weight**: 1.2 kg [in water]{.underline} with 12 batteries loaded (2.6 kg in air with 12 batteries loaded)
+
+**Housing** ([titanium]{.underline}) **dimensions**: 530 mm Long x 60 mm Diameter
+
+**Depth rating**: *200 m* ([default]{.underline}); *500 m* with a pressure release valve ([PRV]{.underline})
+
+![](images/ST600.png){fig-align="left" width="60"}
+
+## Soundtrap servicing and setup
+
+**Packing list**
+
+1.  [User guide](https://www.oceaninstruments.co.nz/wp-content/uploads/2020/12/ST600-User-Guide.pdf)
+
+2.  Soundtrap toolkit
+
+-   4 mm hex wrench (used for opening/closing instrument and adding the pressure relief valve)
+
+-   USB cable (to connect instrument to computer)
+
+-   Spare O-rings
+
+-   Silicone grease (Molykote 44 medium or Super Lube - Silicone Lubricating Grease)
+
+-   Rubberbands (for holding batteries)
+
+-   Kim wipes
+
+-   Electrical tape
+
+-   Memory card cases
+
+-   Smart charger(s) for batteries
+
+3.  Soundtrap ST600
+4.  Memory card (One 256 GB per soundtrap for Rice's whale or North Atlantic Right whale deployment)
+5.  12 Panasonic NCR 18650B or 18650GA batteries
+6.  Rice's whale deployment (deeper sites): Prevco pressure release valve (if deploying \>200 m)
+
+**Prior to fieldwork**
+
+-   Charge 12 batteries (per soundtrap) using a smart charger
+
+-   Clear memory card
+
+**Prepare for deployment**
+
+If the sound

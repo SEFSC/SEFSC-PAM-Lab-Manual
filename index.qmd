@@ -18,8 +18,7 @@ This lab manual serves as the go-to handbook for the behind-the-scenes informati
 
 ### Program Lead
 
-[Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd){target="_blank"}
-<!-- Passive Acoustic Ecology Program Lead -->
+[Melissa Soldevilla](https://www.fisheries.noaa.gov/contact/melissa-soldevilla-phd){target="_blank"} <!-- Passive Acoustic Ecology Program Lead -->
 
 ### Researchers
 
@@ -29,7 +28,7 @@ Emma Beretta, Data management
 
 [Amanda Debich](https://www.fisheries.noaa.gov/contact/amanda-debich){target="_blank"}, Lead acoustic technician for Rice’s whale studies
 
-[Heloise Frouin-Mouy](https://www.fisheries.noaa.gov/contact/heloise-frouin-mouy-phd){target="_blank"}, Assistant scientist for LISTEN GoMex project, odontocete density estimation
+[Heloise Frouin-Mouy](https://www.fisheries.noaa.gov/contact/heloise-frouin-mouy-phd){target="_blank"}, Assistant scientist for LISTEN GoMex project, odontocete density estimation, lead for PAM-equipped glider studies.
 
 [Lynne Hodge](https://www.fisheries.noaa.gov/contact/lynne-hodge-phd){target="_blank"}, Acoustic technician for LISTEN GoMex project, shipping noise and marine mammal characterization
 
@@ -85,6 +84,7 @@ The agencies we work with include:
 
 -   [Scripps Whale Acoustics Lab](https://www.cetus.ucsd.edu/){target="_blank"}
 -   [Scripps Machine Listening Lab](https://sioml.ucsd.edu/){target="_blank"}
+-   [UVI Ocean Glider Laboratory](https://www.uvi.edu/research/center-for-marine-environmental-studies/gliders/index.html)
 -   [Universidad Veracruzana - Serrano Lab](https://www.uv.mx/personal/arserrano/){target="_blank"}
 -   [Universidad Nacional Autónoma de Mexico - Gracia Lab](https://www.icmyl.unam.mx/quienes_somos/personal_academico/gracia-gasca-adolfo){target="_blank"}
 -   [NOAA Atlantic Oceanographic and Meteorological Laboratory](https://www.aoml.noaa.gov/people/matthieu-le-henaff/){target="_blank"}

@@ -44,6 +44,9 @@ website:
           #   text: Hardware
       - href: content/FieldMethods.qmd
         text: "Field Methods"
+        contents:
+          - href: content/Soundtrap.qmd
+            text: Soundtrap
       - section: "Data Management"
         contents:
           - href: content/DataArchive.qmd
